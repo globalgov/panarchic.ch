@@ -8,6 +8,27 @@
 
     {{ block "head_resources" . }}
     <!-- Use this block to link to further resources like .js or .css files. -->
+    <link href="https://fonts.googleapis.com/css?family=Pacifico|Permanent+Marker|Saira+Stencil+One&display=swap" rel="stylesheet">  
+    <style>
+        body {background-color: #00F;
+               }
+        .big-link {
+            font-family: 'Saira Stencil One', cursive;
+            font-size: 48px;
+            color: #FFF;
+         }
+        #title {
+            font-family: 'Permanent Marker', cursive;
+            font-size: 40;
+        
+        }
+        .section {
+            font-family: 'Pacifico', cursive; 
+            font-size: 34;
+            color: #FFC0CB;
+                
+        }
+    </style>    
     {{ end }}
     <title>
         {{ block "title" . }}
