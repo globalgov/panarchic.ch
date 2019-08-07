@@ -1,22 +1,6 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <link href="https://fonts.googleapis.com/css?family=Saira+Stencil+One&display=swap" rel="stylesheet"> 
-        <style>
-            body {background-color: #00F;
-                   }
-            .section {
-                font-family: 'Saira Stencil One', cursive;
-                font-size: 25px;
-                color: #000;
-            }
-        </style>
-</head>
-    <body>
-
 {{ define "section_content" }}
 <div class="section" id="content">
-    {{ .Date.Format (.Site.Params.dateForm | default "Mon Jan 02, 2006") }} &#183; 
+    {{ .Date.Format (.Site.Params.dateForm | default "Mon Jan 02, 2006") }} &#183; {{ .WordCount }} words
     {{ with .Params.tags }}
     <div class="tag-container">
         {{ range . }}
@@ -38,6 +22,3 @@
     {{ partial "bottom_menu.html" (dict "Page" . "show_back_menu_item" true) }}
 </div>
 {{ end }}
-
-          </body>
-</html>
