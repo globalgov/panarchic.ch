@@ -1,8 +1,5 @@
 ---
 title: "Impressum"
-type: "text"
-url: "/impressum"
-draft: false
 ---
 
 
