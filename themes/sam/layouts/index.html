@@ -38,6 +38,15 @@
                         </a>
                     </div>
                 {{ end }}
+            
+            {{ else if .Site.Params.mainMenuTab }}
+                {{ range .Site.Params.mainMenuTab }}
+                    <div class="big-link">
+                        <a target="_blank" rel="noopener noreferrer" href="{{.link}}">
+                            {{.text}}
+                        </a>
+                    </div>
+                {{ end }}
 
             {{ else }}
                 {{ range .Site.Sections }}
