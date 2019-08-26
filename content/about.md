@@ -8,7 +8,8 @@ images:
 
 Geboren in Karlsruhe. Bachelor an der Bauhaus Universität Weimar       
 in Medienkunst/Mediengestaltung. Währenddessen „prise de vue“     
-(Bildgestatung) an der SATIS/ Aubagne.            
+(Bildgestatung) an der SATIS/ Aubagne.
+
 Diplom an der Filmakademie Baden-Württemberg in Regie/Fernsehjournalismus.     
 Gearbeitet für die Deutsche Welle, beim Goethe Zentrum und für den SWR     
 – in Deutschland, Rumänien, Madagaskar und Burkina Faso.  
