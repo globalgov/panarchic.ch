@@ -3,7 +3,7 @@ title: "Maimouna und Hélène"
 date: 2018-04-13
 showDate: true
 draft: false
-tags: ["Regie","Bildgestalter", "Producer"]
+tags: ["Regisseur","DoP", "Producer"]
 ---
 
 {{< vimeo 277099622 >}}
