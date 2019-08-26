@@ -3,7 +3,7 @@ title: "Die wunderbare Welt der Hobbies"
 date: 2018-12-08
 showDate: true
 draft: false
-tags: ["Regie"]
+tags: ["Regisseur"]
 ---
 
 Für die SWR-Landesschau und den [SWR-Heimat Instagramkanal](https://www.instagram.com/swr_heimat_bw/?hl=de) sind mehrere Kurzportraits entstanden von Menschen mit außergewöhnlichen Hobbies. 
