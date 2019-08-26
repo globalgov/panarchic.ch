@@ -11,7 +11,8 @@ in Medienkunst/Mediengestaltung.
 Währenddessen „prise de vue“ (Bildgestatung) an der SATIS/ Aubagne.        
 Diplom an der Filmakademie Baden-Württemberg in Regie/Fernsehjournalismus.     
 Gearbeitet für die Deutsche Welle, beim Goethe Zentrum und für den SWR     
-– in Deutschland, Rumänien, Madagaskar und Burkina Faso.   
+– in Deutschland, Rumänien, Madagaskar und Burkina Faso.  
+
 Ich bin Teil des Kollektives [Carlo] (http://wirsindcarlo.de)
 und hier eine [Auswahl meiner Filme.] (/posts)     
 
