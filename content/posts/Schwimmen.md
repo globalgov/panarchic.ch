@@ -3,7 +3,7 @@ title: "Die Kunst des Schwimmens"
 date: 2017-02-01
 showDate: true
 draft: false
-tags: ["Regie","Producer"]
+tags: ["Regisseur","Producer"]
 
 images:
     - /posts/schwimmen/die_kunst_des_schwimmens_still_01.jpg
