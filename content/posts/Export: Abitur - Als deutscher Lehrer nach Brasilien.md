@@ -3,7 +3,7 @@ title: "Export: Abitur - Als deutscher Lehrer nach Brasilien"
 date: 2019-07-06
 showDate: true
 draft: false
-tags: ["Bildgestalter"]
+tags: ["DoP"]
 
 images:
     - /posts/brasilien/brasilien_01.jpg
