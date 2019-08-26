@@ -9,7 +9,7 @@ tags: ["Regisseur","DoP", "Producer"]
 {{< vimeo 277099622 >}}
 
 
-### Eine Dokumentarfilm von Julius Schmitt
+### Ein Dokumentarfilm von Julius Schmitt
 
 „Seit dem Alphabetisierungskurs kann ich meinen eigenen Namen schreiben“, Maimouna Zaongo lebt in dem kleinen Dorf Bam-Village in Burkina Faso. 
 Der Film zeigt den Alltag von Maimouna im westafrkanischen Bam-Village. „Maimouna“ ist eine Auftragsarbeit der Stadt Ludwigsburg, die sich gemeinsam mit Montbéliard in Burkina Faso engagiert. 
@@ -30,7 +30,7 @@ Filmmusik: Noufou Kabore
 
 {{< vimeo 303255908 >}}
 
-### Eine Dokumentarfilm von Rebecca Barthel und Julius Schmitt
+### Ein Dokumentarfilm von Rebecca Barthel und Julius Schmitt
 
 „Ich werde nicht entlohnt für die Arbeit, der Chef zahlt uns nichts“. Hélène Ouédraogo ist 24 Jahre alt und macht eine Ausbildung zur Schneiderin in westafrikanischen Kongoussi. 
 „Hélène“ ist eine Auftragsarbeit der Stadt Ludwigsburg, die sich gemeinsam mit Montbéliard in Burkina Faso engagiert. 
