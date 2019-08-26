@@ -3,7 +3,7 @@ title: "Meine Reise mit dem Wanderkino"
 date: 2018-06-15
 showDate: true
 draft: false
-tags: ["Regie", "Bildgestalter", "Producer"]
+tags: ["Regisseur", "DoP", "Producer"]
 
 images:
     - /posts/wanderkino/unterwegs-mit-dem-wanderkino-1.jpg
