@@ -2,7 +2,7 @@
 title: "So hell die Nacht"
 date: 2019-01-15
 showDate: true
-tags: ["Regie"]
+tags: ["Regisseur"]
 images:
     - /posts/nacht/Poster_Nacht.jpg
     - /posts/nacht/So_Hell_Die_Nacht_Still_01.jpg
