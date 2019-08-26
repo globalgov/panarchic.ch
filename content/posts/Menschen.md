@@ -3,7 +3,7 @@ title: "Menschen die nach oben starren"
 date: 2016-02-09
 showDate: true
 draft: false
-tags: ["Regie","Text","Producer"]
+tags: ["Regisseur","Text","Producer"]
 
 images:
     - /posts/menschen/aliens.jpg
