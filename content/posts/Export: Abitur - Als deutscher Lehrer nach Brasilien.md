@@ -6,17 +6,18 @@ draft: false
 tags: ["DoP"]
 
 images:
-    - /posts/brasilien/brasilien_01.jpg
-    - /posts/brasilien/brasilien_02.jpg
-    - /posts/brasilien/brasilien_03.jpg
-    - /posts/brasilien/brasilien_04.jpg
-    - /posts/brasilien/brasilien_05.jpg
-    - /posts/brasilien/brasilien_06.jpg
+    - /posts/brasilien/brazil_01.jpg
+    - /posts/brasilien/brazil_02.jpg
+    - /posts/brasilien/brazil_03.jpg
+    - /posts/brasilien/brazil_04.jpg
+    - /posts/brasilien/brazil_05.jpg
+    - /posts/brasilien/brazil_06.jpg
+    - /posts/brasilien/brazil_07.jpg
 
 
 ---
 
-![Julius](/posts/brasilien/brasilien_01.jpg)
+![Julius](/posts/brasilien/brazil_05.jpg)
 
 ### Ein Reportage von Leonard Claus
 
@@ -39,9 +40,10 @@ Sound:
 Neil Grabbe
 
 
-![Julius](/posts/brasilien/brasilien_02.jpg)
-![Julius](/posts/brasilien/brasilien_03.jpg)
-![Julius](/posts/brasilien/brasilien_04.jpg)
-![Julius](/posts/brasilien/brasilien_05.jpg)
-![Julius](/posts/brasilien/brasilien_06.jpg)
+![Julius](/posts/brasilien/brazil_01.jpg)
+![Julius](/posts/brasilien/brazil_02.jpg)
+![Julius](/posts/brasilien/brazil_03.jpg)
+![Julius](/posts/brasilien/brazil_04.jpg)
+![Julius](/posts/brasilien/brazil_06.jpg)
+![Julius](/posts/brasilien/brazil_07.jpg)
 
