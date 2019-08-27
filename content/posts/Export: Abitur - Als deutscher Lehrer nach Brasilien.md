@@ -19,7 +19,7 @@ images:
 
 ![Julius](/posts/brasilien/brazil_05.jpg)
 
-### Ein Reportage von Leonard Claus
+### Eine Reportage von Leonard Claus
 
 Nicolas Jentzsch ist Lehrer in Hamburg. Doch nicht mehr lange, denn bald wandert er nach São Paulo aus, um an einer Deutschen Auslandsschule zu unterrichten. 
 Weltweit gibt es davon 140 Schulen in 76 Ländern, wobei das brasilianische Colégio Visconde de Porto Seguro  die mit Abstand größte Schule ist - knapp 10.000 Kinder lernen hier die deutsche Sprache und werden auf das Abitur vorbereitet.
