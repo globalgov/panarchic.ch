@@ -23,7 +23,7 @@ Ton: Chiara Haurand, Benjamin Hettwer
 
 Schnitt: Moritz Enzo Hoch 
 
-Motion Design: Timm Völkner 
+Motion Design: <a href="https://timmvoelkner.com/" target="_blank">Timm Völkner</a>
 
 Producer: Maximilian Höhnle 
 
