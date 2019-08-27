@@ -6,15 +6,15 @@ images:
 ---
 ![Julius](/julius4.jpg)
 
-Geboren in Karlsruhe. Bachelor an der Bauhaus Universität Weimar       
-in Medienkunst/Mediengestaltung. Währenddessen „prise de vue“     
-(Bildgestatung) an der SATIS/ Aubagne.
+Geboren in Karlsruhe. BaBachelor an der Bauhaus Universität Weimar      
+in Medienkunst/Mediengestaltung mit Auslandssemester    
+„prise de vue“ (Bildgestaltung) an der SATIS/Aubagne.                                                  
 
-Diplom an der Filmakademie Baden-Württemberg in Regie/Fernsehjournalismus.     
+Diplom in Regie/Fernsehjournalismus an der Filmakademie Baden-Württemberg.      
 Gearbeitet für die Deutsche Welle, beim Goethe Zentrum und für den SWR     
-– in Deutschland, Rumänien, Madagaskar und Burkina Faso.  
+– in Deutschland, Rumänien, Madagaskar, Kenia und Burkina Faso.  
 
-Ich bin Teil des Kollektives [Carlo] (http://wirsindcarlo.de)
+Ich bin Mitbegründer des Kollektives [Carlo] (https://wirsindcarlo.de)
 und hier eine [Auswahl meiner Filme.] (/posts)     
 
 [Schreibt mir,] (mailto:julius@wirsindcarlo.de) 
