@@ -6,7 +6,7 @@ images:
 ---
 ![Julius](/julius4.jpg)
 
-Geboren in Karlsruhe. BaBachelor an der Bauhaus Universität Weimar      
+Geboren in Karlsruhe. Bachelor an der Bauhaus Universität Weimar      
 in Medienkunst/Mediengestaltung mit Auslandssemester    
 „prise de vue“ (Bildgestaltung) an der SATIS/Aubagne.                                                  
 
