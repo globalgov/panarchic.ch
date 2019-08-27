@@ -33,7 +33,7 @@ Produktoinsfirma: <a href="https://www.eikon-suedwest.de/home.html" target="_bla
 
 Regie: Julius Schmitt
 
-Bildgestalerin:  <a href="https://https://felinegerhardt.com/" target="_blank">Feline Gerhardt</a>
+Bildgestalterin:  <a href="https://https://felinegerhardt.com/" target="_blank">Feline Gerhardt</a>
 
 Sound: Cécilia Marchat
 
@@ -50,7 +50,7 @@ Produktoinsfirma: <a href="https://www.eikon-suedwest.de/home.html" target="_bla
 
 Regie: Julius Schmitt
 
-Bildgestalerin:  <a href="https://https://felinegerhardt.com/" target="_blank">Feline Gerhardt</a>
+Bildgestalterin:  <a href="https://https://felinegerhardt.com/" target="_blank">Feline Gerhardt</a>
 
 Sound: Leonard Claus
 
