@@ -6,7 +6,7 @@ draft: false
 tags: ["Regisseur"]
 ---
 
-Für die SWR-Landesschau und den [SWR-Heimat Instagramkanal](https://www.instagram.com/swr_heimat_bw/?hl=de) sind mehrere Kurzportraits von Menschen mit außergewöhnlichen Hobbies entstanden. 
+Für die SWR-Landesschau und den <a href="https://www.instagram.com/swr_heimat_bw/?hl=de" target="_blank">SWR-Heimat Instagramkanal</a> sind mehrere Kurzportraits von Menschen mit außergewöhnlichen Hobbies entstanden. 
 
 
 {{< youtube AvoXEnUqMZo >}}
@@ -23,7 +23,7 @@ Sound: Leonard Claus
 
 Producer: Nick Pastuscha
 
-Produktoinsfirma: Eikon
+Produktoinsfirma: <a href="https://www.eikon-suedwest.de/home.html" target="_blank">Eikon</a>
 
 {{< youtube GHi6rZiyw9c >}}
 
@@ -39,7 +39,7 @@ Sound: Cécilia Marchat
 
 Producer: Nick Pastuscha
 
-Produktoinsfirma: Eikon
+Produktoinsfirma: <a href="https://www.eikon-suedwest.de/home.html" target="_blank">Eikon</a>
 
 
 {{< youtube C58uY1lyEOg >}}
@@ -56,6 +56,6 @@ Sound: Leonard Claus
 
 Producer: Nick Pastuscha
 
-Produktoinsfirma: Eikon
+Produktoinsfirma: <a href="https://www.eikon-suedwest.de/home.html" target="_blank">Eikon</a>
 
 
