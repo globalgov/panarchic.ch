@@ -26,7 +26,7 @@ Buch, Regie, Produktion und Kamera:
 Julius Schmitt
 
 Montage:
-Martin Mikosch
+<a href="https://www.martinmikosch.de/" target="_blank">Martin Mikosch</a>
 
 Sound Design und Mix:
 William Amsler
