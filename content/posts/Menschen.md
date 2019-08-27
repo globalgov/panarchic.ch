@@ -33,10 +33,10 @@ Produktion:
 Julius Schmitt
 
 Kamera:
-Chris Roemer
+<a href="https://chrisroemer.de/" target="_blank">Chris Römer</a>
 
 Montage und VFX:
-Julius Schmitt, Chris Roemer
+Julius Schmitt, <a href="https://chrisroemer.de/" target="_blank">Chris Römer</a>
 
 Code:
 Julius Schmitt, Tobias Wolf, Gianluca Pandolfo
