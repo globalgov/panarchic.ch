@@ -35,7 +35,7 @@ Kamera:
 <a href="https://chrisroemer.de/" target="_blank">Chris Römer</a>
 
 Montage und VFX:
-C<a href="https://chrisroemer.de/" target="_blank">Chris Römer</a>, Julius Schmitt
+<a href="https://chrisroemer.de/" target="_blank">Chris Römer</a>, Julius Schmitt
 
 Sound Design und Mix:
 Benjamin Voßler
