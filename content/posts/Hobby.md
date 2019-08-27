@@ -6,7 +6,7 @@ draft: false
 tags: ["Regisseur"]
 ---
 
-Für die SWR-Landesschau und den [SWR-Heimat Instagramkanal](https://www.instagram.com/swr_heimat_bw/?hl=de) sind mehrere Kurzportraits entstanden von Menschen mit außergewöhnlichen Hobbies. 
+Für die SWR-Landesschau und den [SWR-Heimat Instagramkanal](https://www.instagram.com/swr_heimat_bw/?hl=de) sind mehrere Kurzportraits von Menschen mit außergewöhnlichen Hobbies entstanden. 
 
 
 {{< youtube AvoXEnUqMZo >}}
