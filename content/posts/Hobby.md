@@ -15,7 +15,7 @@ Für die SWR-Landesschau und den <a href="https://www.instagram.com/swr_heimat_b
 
 Regie: Julius Schmitt
 
-Bildgestalterin:  <a href="https://https://felinegerhardt.com/" target="_blank">Feline Gerhardt</a>
+Bildgestalterin:  <a href="https://felinegerhardt.com/" target="_blank">Feline Gerhardt</a>
 
 Unterwasserkamera: Nicolai Deutsch
 
@@ -33,7 +33,7 @@ Produktoinsfirma: <a href="https://www.eikon-suedwest.de/home.html" target="_bla
 
 Regie: Julius Schmitt
 
-Bildgestalterin:  <a href="https://https://felinegerhardt.com/" target="_blank">Feline Gerhardt</a>
+Bildgestalterin:  <a href="https://felinegerhardt.com/" target="_blank">Feline Gerhardt</a>
 
 Sound: Cécilia Marchat
 
@@ -50,7 +50,7 @@ Produktoinsfirma: <a href="https://www.eikon-suedwest.de/home.html" target="_bla
 
 Regie: Julius Schmitt
 
-Bildgestalterin:  <a href="https://https://felinegerhardt.com/" target="_blank">Feline Gerhardt</a>
+Bildgestalterin:  <a href="https://felinegerhardt.com/" target="_blank">Feline Gerhardt</a>
 
 Sound: Leonard Claus
 
