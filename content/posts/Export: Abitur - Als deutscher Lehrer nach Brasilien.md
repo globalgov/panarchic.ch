@@ -19,7 +19,7 @@ images:
 
 ![Julius](/posts/brasilien/brazil_05.jpg)
 
-### Eine Reportage von <a href="https://www.leonardclaus.de" target="_blank">Leonard Claus</a>
+### Eine Reportage von <a href="www.leonardclaus.de" target="_blank">Leonard Claus</a>
 
 Nicolas Jentzsch ist Lehrer in Hamburg. Doch nicht mehr lange, denn bald wandert er nach São Paulo aus, um an einer Deutschen Auslandsschule zu unterrichten. 
 Weltweit gibt es davon 140 Schulen in 76 Ländern, wobei das brasilianische Colégio Visconde de Porto Seguro  die mit Abstand größte Schule ist - knapp 10.000 Kinder lernen hier die deutsche Sprache und werden auf das Abitur vorbereitet.
@@ -28,10 +28,10 @@ Wir folgen Nicolas Jentzsch auf seinem Abenteuer nach Brasilien und möchten zud
 30 min / FullHD / 16:9 / Farbe
 
 Regie:
-<a href="https://www.leonardclaus.de" target="_blank">Leonard Claus</a>
+<a href="www.leonardclaus.de" target="_blank">Leonard Claus</a>
 
 Produktion:
-<a href="https://www.leonardclaus.de" target="_blank">Leonard Claus</a>
+<a href="www.leonardclaus.de" target="_blank">Leonard Claus</a>
 
 Kamera:
 Julius Schmitt
