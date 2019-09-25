@@ -15,7 +15,8 @@ Gearbeitet für die Deutsche Welle, beim Goethe Zentrum und für den SWR
 – in Deutschland, Rumänien, Madagaskar, Kenia und Burkina Faso.  
 
 Ich bin Mitbegründer des Kollektives <a href="https://wirsindcarlo.de" target="_blank">Carlo</a>       
-und hier eine [Auswahl meiner Filme.] (/posts)     
+,hier eine [Auswahl meiner Filme] (/posts)     
+und hier [mein CV.] (/cv.pdf)
 
 [Schreibt mir,] (mailto:julius@wirsindcarlo.de) 
 ich freue mich.
