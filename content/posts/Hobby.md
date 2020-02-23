@@ -10,7 +10,8 @@ Für die SWR-Landesschau und den <a href="https://www.instagram.com/swr_heimat_b
 
 ### Die wunderbare Welt der Hobbys
 
-<iframe src="https://www.ardmediathek.de/embed/Y3JpZDovL3N3ci5kZS9hZXgvbzExODczMzQ" width="640" height="420" allowfullscreen frameBorder="0" scrolling="no"></iframe>
+<iframe src="https://www.ardmediathek.de/embed/Y3JpZDovL3N3ci5kZS9hZXgvbzExODczMzQ" width="840" height="620" allowfullscreen frameBorder="0" scrolling="no"></iframe>
+
 
 Regie: Julius Schmitt, <a href="https://felinegerhardt.com/" target="_blank">Feline Gerhardt</a>, Leonard Claus, Marina Schultz
 
