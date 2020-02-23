@@ -13,7 +13,7 @@ Für die SWR-Landesschau und den <a href="https://www.instagram.com/swr_heimat_b
 
 ### Die wunderbare Welt der Hobbys
 
-Regie: Julius Schmitt, <a href="https://felinegerhardt.com/" target="_blank">Feline Gerhardt</a>, Leonard Claus, Marina Schultz
+Regie: Julius Schmitt, <a href="https://felinegerhardt.com/" target="_blank">Feline Gerhardt</a>, <a href="https://www.leonardclaus.de" target="_blank">Leonard Claus</a>, Marina Schultz
 
 Bildgestalterin:  <a href="https://felinegerhardt.com/" target="_blank">Feline Gerhardt</a>
 
@@ -70,4 +70,18 @@ Producer: Nick Pastuscha
 
 Produktoinsfirma: <a href="https://www.eikon-suedwest.de/home.html" target="_blank">Eikon</a>
 
+<iframe src="https://www.swrfernsehen.de/~embed/landesschau-bw/Mein-Hobby-Nervenkitzel-Skispringen,av-o1117282-100.html" width="840" height="420" frameborder="0" scrolling="no" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
+### Die Skispringerin
+
+Regie: Julius Schmitt
+
+Bildgestalterin:  <a href="https://felinegerhardt.com/" target="_blank">Feline Gerhardt</a>
+
+Sound: Leonard Claus
+
+Producer: Nick Pastuscha
+
+Produktoinsfirma: <a href="https://www.eikon-suedwest.de/home.html" target="_blank">Eikon</a>
 
