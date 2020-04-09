@@ -23,7 +23,7 @@ Produktoinsfirma: <a href="https://www.eikon-suedwest.de/home.html" target="_bla
 
 
 
-<iframe src="https://www.youtube.com/watch?v=AvoXEnUqMZo" width="840" height="420" frameborder="0" scrolling="no" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="src="https://www.youtube.com/embed/AvoXEnUqMZo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>" width="840" height="420" frameborder="0" scrolling="no" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ### Die Meerjungfrau
 
