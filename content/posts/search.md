@@ -28,7 +28,7 @@ Julius Schmitt
 Kamera:
 Paul Nungeßer, Feline Gerhardt
 
-Montage
+Montage:
 Andrea Grumdt
 
 Sound Design und Mix:
