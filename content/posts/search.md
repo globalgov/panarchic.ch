@@ -10,7 +10,7 @@ images:
     - /posts/search/sar_10.jpg
     - /posts/search/sar_5.jpg
 ---
-![Serach_Rescue](/posts/search/sar_1.jpg)
+![Search_Rescue](/posts/search/sar_1.jpg)
 
 
 ### Ein Dokumentarfilm von Julius Schmitt
