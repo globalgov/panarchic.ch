@@ -54,7 +54,7 @@ Producer: Nick Pastucha
 Produktoinsfirma: <a href="https://www.eikon-suedwest.de/home.html" target="_blank">Eikon</a>
 
 
-<iframe src="https://youtu.be/HwRrXYg_CAE" width="420" height="420" frameborder="0" scrolling="no" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://youtu.be/HwRrXYg_CAE" width="840" height="420" frameborder="0" scrolling="no" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
 ### Die paranormalen Ermittler
