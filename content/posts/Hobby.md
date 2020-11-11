@@ -43,7 +43,7 @@ Producer: Nick Pastucha
 
 Produktoinsfirma: <a href="https://www.eikon-suedwest.de/home.html" target="_blank">Eikon</a>
 
-<iframe src="https://vimeo.com/318817205" width="840" height="420" frameborder="0" scrolling="no" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+![Julius](/posts/hobby/lokfuehrer.jpg)
 
 ### Der Eisenbahnführer
 
@@ -72,8 +72,7 @@ Producer: Nick Pastucha
 
 Produktoinsfirma: <a href="https://www.eikon-suedwest.de/home.html" target="_blank">Eikon</a>
 
-<iframe src="https://www.swrfernsehen.de/~embed/landesschau-bw/Mein-Hobby-Nervenkitzel-Skispringen,av-o1117282-100.html" width="840" height="420" frameborder="0" scrolling="no" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
+![Julius](/posts/hobby/skispringerin.jpg)
 
 ### Die Skispringerin
 
