@@ -1,28 +1,13 @@
 ---
-title: "Über mich"
-date: 2018
-images:
-    - /posts/julius4.jpg
+title: "About the project"
+date: 2020-11-19
 ---
-![Julius](/julius4.jpg)
 
-Geboren in Karlsruhe. Bachelor an der Bauhaus Universität Weimar      
-in Medienkunst/Mediengestaltung mit Auslandssemester    
-„prise de vue“ (Bildgestaltung) an der SATIS/Aubagne.                                                  
+Welcome to the PANARCHIC project website.
 
-Diplom in Regie/Fernsehjournalismus an der Filmakademie Baden-Württemberg.      
-Gearbeitet für die Deutsche Welle, beim Goethe Zentrum und für den SWR     
-– in Deutschland, Rumänien, Madagaskar, Kenia und Burkina Faso.  
+At the moment, this site is just a placeholder,
+but we'll be expanding on this website considerably over the coming months.
 
-Ich bin Mitbegründer des Kollektives <a href="https://wirsindcarlo.de" target="_blank">Carlo</a>       
-,hier eine [Auswahl meiner Filme] (/posts)     
-und hier [mein CV.] (/cv.pdf)
-
-[Schreibt mir,] (mailto:julius@wirsindcarlo.de) 
-ich freue mich.
-
-
-
-
-
+In the meantime, please check out who is affiliated with this project
+[here](/team).
 
