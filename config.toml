@@ -11,6 +11,18 @@ summaryLength = "15"
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = ["fr"]
+=======
+baseurl                  = "https://panarchic.ch/" # Your domain name. Must end with "/"
+themesDir                = "themes"
+publishDir               = "docs"
+languageCode             = "en-us"
+defaultContentLanguage   = "en"
+isMultilingual           = false
+title                    = "The PANARCHIC Project"
+theme                    = "sam"
+pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
+pygmentsCodefences       = true
+# googleAnalytics        = ""                               # Tracking code, eg. "UA-111111111-1"
 
 ############################# Plugins ##########################
 # css plugins
@@ -218,6 +230,32 @@ map_marker = "images/marker.png"
 # icon = "ti-pinterest" # themify icon pack : https://themify.me/themify-icons
 # link = "#"
 
+=======
+    dateform             = "Mon 2 Jan, 2006"
+    dateformfull         = "Mon 2 Jan 2006 15:04:05 EST"
+    favicon              = "sam.ico"
+    homepage             = "main"                           # What to call the home page link
+    footerText           = "Made with the help of Hugo, Sam, and Julius."
+
+# Metadata for Open Graph and Twitter
+    description          = "Site for the PANARCHIC project"               # Max 160 characters show in search results
+    images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
+    title                = "PANARCHIC"
+
+[[params.videoBackground.sources]]
+    source  = "/sample_video.mp4"
+    type    = "video/mp4"
+    poster  = "/background.png"
+[params.videoBackground]
+    overlay = "rgba(0, 0, 0, 0.4)" # optional
+
+[[params.mainMenu]]
+    link = "about"
+    text = "What is PANARCHIC?"
+
+[[params.mainMenu]]
+    link = "team"
+    text = "Meet the team"
 
 ################################ English Language ########################
 [Languages.en]
@@ -235,4 +273,4 @@ languageCode = "fr-fr"
 contentDir = "content/french"
 weight = 2
 home = "Accueil"
-copyright = "Made with the help of Hugo and Meghna"
+copyright = "Réalisé avec l'aide de Hugo et Meghna"
