@@ -19,7 +19,7 @@ languageCode             = "en-us"
 defaultContentLanguage   = "en"
 isMultilingual           = false
 title                    = "The PANARCHIC Project"
-theme                    = "sam"
+theme                    = "sam_0.7"
 pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
 pygmentsCodefences       = true
 # googleAnalytics        = ""                               # Tracking code, eg. "UA-111111111-1"
@@ -234,7 +234,7 @@ map_marker = "images/marker.png"
     dateform             = "Mon 2 Jan, 2006"
     dateformfull         = "Mon 2 Jan 2006 15:04:05 EST"
     favicon              = "sam.ico"
-    homepage             = "main"                           # What to call the home page link
+    homepage             = "Home"                           # What to call the home page link
     footerText           = "Made with the help of Hugo, Sam, and Julius."
 
 # Metadata for Open Graph and Twitter
@@ -242,12 +242,12 @@ map_marker = "images/marker.png"
     images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
     title                = "PANARCHIC"
 
-[[params.videoBackground.sources]]
-    source  = "/sample_video.mp4"
-    type    = "video/mp4"
-    poster  = "/background.png"
+[[params.videoBackground.sources]]        #Adds a video background.
+      source  = "/background_network.mp4"
+      type    = "video/mp4"
+      poster  = "/background.png"
 [params.videoBackground]
-    overlay = "rgba(0, 0, 0, 0.4)" # optional
+      overlay = "rgba(0, 0, 0, 0.4)" # optional
 
 [[params.mainMenu]]
     link = "about"
