@@ -243,7 +243,7 @@ map_marker = "images/marker.png"
     title                = "PANARCHIC"
 
 [[params.videoBackground.sources]]        #Adds a video background.
-      source  = "/background_network.mp4"
+      source  = "/sample_video.mp4"
       type    = "video/mp4"
       poster  = "/background.png"
 [params.videoBackground]
