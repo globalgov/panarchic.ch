@@ -1,7 +1,7 @@
 ---
 title: "About the project"
 date: 2020-11-19
-----
+---
 
 Welcome to the PANARCHIC project website.
 
