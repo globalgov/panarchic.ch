@@ -247,7 +247,7 @@ map_marker = "images/marker.png"
       type    = "video/mp4"
       poster  = "/background-net.png"
 [params.videoBackground]
-      overlay = "rgba(0, 0, 0, 0.4)" # optional
+
 
 [[params.mainMenu]]
     link = "about"
