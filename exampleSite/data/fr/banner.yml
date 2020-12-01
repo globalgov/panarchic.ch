@@ -1,0 +1,13 @@
+############################### Banner ################################
+############################### Banner ################################
+banner:
+  enable : true
+  # bg_image_webp : "images/backgrounds/hero-area.webp"
+  bg_image : "images/backgrounds/background_network.jpg"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "PANARCHIC"
+  content : "Short description"
+  button:
+    enable : true
+    label : "Learn More"
+    link : "#services"

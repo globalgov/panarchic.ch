@@ -1,0 +1,16 @@
+############################# About ###################################
+about:
+  enable : true
+  title : The Project
+  about_item :
+  - icon : ti-link # themify icon pack : https://themify.me/themify-icons
+    title : Networks
+    content : We study the effects of network and power on how quickly states join, reform, or create international institutions by examining the historical dynamics of institutional networks.
+
+  - icon : ti-time # themify icon pack : https://themify.me/themify-icons
+    title : Dynamic
+    content : We use a dynmanic actor-oriented network event model to estimate the effects networks and power have on the timing and choices of institutional change.
+
+  - icon : ti-layers # themify icon pack : https://themify.me/themify-icons
+    title : Multilayered
+    content : We analyze a wide range of institutional complexes ranging from trade to environmental complexes.

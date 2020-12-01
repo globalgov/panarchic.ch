@@ -1,0 +1,68 @@
+############################### team ############################
+team:
+  enable : true
+  title : Our Team
+  team_member :
+    # team member loop
+    - name : James Hollway
+      # image_webp : images/team/team-1.webp
+      image : images/team/james_hollway.jpg
+      designation : Principal Investigator
+      content : A Short description
+      # social :
+      #   - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+      #     link : "#"
+      #   - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+      #     link : "#"
+      #   - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+      #     link : "#"
+      #   - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+      #     link : "#"
+
+    # team member loop
+    - name : Henrique Sposito
+      # image_webp : images/team/team-2.webp
+      image : images/team/henrique_sposito.jpg
+      designation : Doctoral Research Assistant
+      content : PhD Student in Political Science and International Affairs.
+      # social :
+      #   - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+      #     link : "#"
+      #   - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+      #     link : "#"
+      #   - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+      #     link : "#"
+      #   - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+      #     link : "#"
+
+    # team member loop
+    - name : Bernhard Bieri
+      # image_webp : images/team/team-3.webp
+      image : images/team/bernhard_bierii.jpg
+      designation : Research Assistant
+      content : Masters student in International Economics.
+      # social :
+      #   - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+      #     link : "#"
+      #   - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+      #     link : "#"
+      #   - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+      #     link : "#"
+      #   - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+      #     link : "#"
+
+    # team member loop
+    - name : Esther Peev
+      # image_webp : images/team/team-4.webp
+      image : images/team/team-4.jpg
+      designation : Research Assistant
+      content : Masters student in International Affairs.
+      # social :
+      #   - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+      #     link : "#"
+      #   - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+      #     link : "#"
+      #   - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+      #     link : "#"
+      #   - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+      #     link : "#"
