@@ -33,7 +33,7 @@ team:
       #   - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
       #     link : "#"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "linkedin.com/in/henrique-sposito-11b84282"
+          link : "https://linkedin.com/in/henrique-sposito-11b84282"
       #   - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
       #     link : "#"
 
@@ -49,7 +49,7 @@ team:
       #   - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
       #     link : "#"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "www.linkedin.com/in/bernhard-bieri"
+          link : "https://www.linkedin.com/in/bernhard-bieri"
       #   - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
       #     link : "#"
 
@@ -65,6 +65,6 @@ team:
       #   - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
       #     link : "#"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "linkedin.com/in/esther-peev-010427152"
+          link : "https://linkedin.com/in/esther-peev-010427152"
       #   - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
       #     link : "#"
