@@ -8,7 +8,7 @@ team:
       # image_webp : images/team/team-1.webp
       image : images/team/james_hollway.jpg
       designation : Principal Investigator
-      content : DPhil, Nuffield College, University of Oxford. Faculty member at the Graduate Institute since 2015, Professor Hollway is Co-Director of Professional Skills Training for International Relations/Political Science.
+      content : Associate Professor of International Relations and Political Science
       social :
         - icon : ti-new-window # themify icon pack : https://themify.me/themify-icons
           link : "https://jameshollway.com"
@@ -32,8 +32,8 @@ team:
           link : "mailto:henrique.sposito@graduateinstitute.ch"
       #   - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
       #     link : "#"
-      #   - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-      #     link : "#"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "linkedin.com/in/henrique-sposito-11b84282"
       #   - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
       #     link : "#"
 
@@ -48,8 +48,8 @@ team:
           link : "mailto:bernhard.bieri@graduateinstitute.ch"
       #   - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
       #     link : "#"
-      #   - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-      #     link : "#"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "www.linkedin.com/in/bernhard-bieri"
       #   - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
       #     link : "#"
 
@@ -64,7 +64,7 @@ team:
           link : "mailto:esther.peev@graduateinstitute.ch"
       #   - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
       #     link : "#"
-      #   - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-      #     link : "#"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "linkedin.com/in/esther-peev-010427152"
       #   - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
       #     link : "#"
