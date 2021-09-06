@@ -38,7 +38,7 @@ team:
       #     link : "#"
 
     # team member loop
-    - name : Yi Jael Tan
+    - name : Jael Tan
       # image_webp : images/team/team-2.webp
       image : images/team/JaelYiTan.jpg
       designation : Doctoral Research Assistant
