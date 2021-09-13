@@ -5,4 +5,4 @@
 [build.environment]
   HUGO_VERSION = "0.73.0"
   HUGO_THEME = "meghna-hugo"
-  HUGO_BASEURL = "/"
+  # HUGO_BASEURL = "/"
