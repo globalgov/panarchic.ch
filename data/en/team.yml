@@ -1,4 +1,5 @@
 ############################### team ############################
+# Note that the image path starts from the static folder and not the root folder
 team:
   enable : true
   title : Our Team
