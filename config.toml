@@ -1,7 +1,7 @@
 ################################# Default configuration ###################
 baseURL = "https://panarchic.ch/"
 title = "PANARCHIC Project"
-theme = "meghna-hugo"
+# theme = "meghna-hugo"
 themesDir = "themes"
 # post pagination
 paginate = "1"
