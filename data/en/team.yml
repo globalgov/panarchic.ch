@@ -55,33 +55,33 @@ team:
       #     link : "#"
 
     # team member loop
-    - name : Bernhard Bieri
+    - name : Anders Viemose
       # image_webp : images/team/team-3.webp
-      image : images/team/bernhard_bieri.jpg
+      image : images/team/anders_viemose.jpg
       designation : Research Assistant
-      content : Masters student in International Economics.
+      content :  Masters Student in International Affairs.
       social :
         - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-          link : "mailto:bernhard.bieri@graduateinstitute.ch"
+          link : "mailto:anders.viemose@graduateinstitute.ch"
       #   - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
       #     link : "#"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "https://www.linkedin.com/in/bernhard-bieri"
+          link : "https://www.linkedin.com/in/anders-t-1a5927130"
       #   - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
       #     link : "#"
 
     # team member loop
-    - name : Esther Peev
+    - name : Diego Del Moral Suarez
       # image_webp : images/team/team-4.webp
-      image : images/team/esther_peev.jpg
+      image : images/team/diego.jpg
       designation : Research Assistant
-      content : Masters student in International Affairs.
+      content : Masters student in Development Studies.
       social :
         - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-          link : "mailto:esther.peev@graduateinstitute.ch"
+          link : "mailto:diego.del@graduateinstitute.ch"
       #   - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
       #     link : "#"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "https://linkedin.com/in/esther-peev-010427152"
+          link : "https://www.linkedin.com/in/delmoralsu/"
       #   - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
       #     link : "#"
