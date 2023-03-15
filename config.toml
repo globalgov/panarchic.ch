@@ -116,6 +116,12 @@ pre = "#"
 url = "portfolio"
 weight = 3
 
+[[Languages.fr.menu.main]]
+name = "Nos Publications"
+pre = "#"
+url = "pricing"
+weight = 4
+
 # [[Languages.fr.menu.main]]
 # name = "équipe"
 # pre = "#"
