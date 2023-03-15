@@ -66,6 +66,12 @@ pre = "#"
 url = "pricing"
 weight = 4
 
+[[Languages.en.menu.main]]
+name = "Our Packages"
+pre = "#"
+url = "testimonial"
+weight = 5
+
 # [[Languages.en.menu.main]]
 # name = "team"
 # pre = "#"
@@ -121,6 +127,12 @@ name = "Nos Publications"
 pre = "#"
 url = "pricing"
 weight = 4
+
+[[Languages.fr.menu.main]]
+name = "Nos Packages"
+pre = "#"
+url = "testimonial"
+weight = 5
 
 # [[Languages.fr.menu.main]]
 # name = "équipe"

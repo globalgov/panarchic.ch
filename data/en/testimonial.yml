@@ -1,26 +1,32 @@
 ################################# Testimonial #########################
 testimonial:
-  enable : false
-  bg_image : images/backgrounds/bg-testimonial.jpg
-  bg_image_webp : images/backgrounds/bg-testimonial.webp
+  enable : true
+  title : Our Packages
   testimonial_item :
     # testimonial item loop
-    - name : Jonathon Andrew
-      image : images/client/client-1.jpg
-      image_webp : images/client/client-1.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    - name : "manypkgs: Support for Creating Ensembled Global Governance Data"
+      image : images/client/manypkgs.jpg
 
     # testimonial item loop
-    - name : Mark Dinn
-      image : images/client/client-2.jpg
-      image_webp : images/client/client-2.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    - name : "manydata: Portal for Global Governance Data"
+      image : images/client/manydata.jpg
+      
+    # testimonial item loop
+    - name : "manyenviron: Environmental Agreements for the 'many' Universe"
+      image : images/client/manyenviron.jpg
 
     # testimonial item loop
-    - name : Lemos Kail
-      image : images/client/client-1.jpg
-      image_webp : images/client/client-1.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    - name : "manytrade: Trade Agreements for the 'many' Universe"
+      image : images/client/manytrade.jpg
+
+    # testimonial item loop
+    - name : "manyhealth: Health Agreements for the 'many' Universe"
+      image : images/client/manyhealth.jpg
+
+    # testimonial item loop
+    - name : "manystates: States for the 'many' Universe"
+      image : images/client/manystates.jpg
+
+    # testimonial item loop
+    - name : "migraph: Tools for Multimodal Network Analysis"
+      image : images/client/migraph.jpg
