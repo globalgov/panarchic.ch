@@ -2,35 +2,35 @@
 pricing:
   enable : true
   title : Our Publications
-  pricing_item :
-    # pricing item loop
+  pricing_table :
+    # pricing table loop
     - name : "Laurens, N., Hollway, J., and Morin, J-F. (2023). Checking for Updates: Ratification, Design, and Institutional Adaptation."
       button:
         label : "Published in: International Studies Quarterly."
         link : "#"
 
-    # pricing item loop
+    # pricing table loop
     - name : "Hollway, J. (2023). Design paths of federal intergovernmental cooperation."
       button:
         label : "Published in: Policy Studies Journal."
         link : "#"
 
-    # pricing item loop
+    # pricing table loop
     - name : "Haunss, S., and Hollway, J. (2023). Multimodal mechanisms of political discourse dynamics and the case of Germany's nuclear energy phase-out."
       button:
         label : "Published in: Network Science."
         link : "https://doi.org/10.1017/nws.2022.31"
 
-    # pricing item loop
+    # pricing table loop
     - name : "Borghi, J., Ismail, S., Hollway, J., Kim, R. E., Sturmberg, J., Brown, G., Mechler, R., Volmink, H., Spicer, N., Chalabi, Z., Cassidy, R., Johnson, J., Foss, A., Koduah, A., Searle, C., Komendantova, N., Semwanga, A., and Moon, s. (2022). Viewing the global health system as a complex adaptive system: Implications for research and practice."
       button:
         label : "Published in: F1000"
         link : "https://doi.org/10.12688/f1000research.126201.1"
 
-    # pricing item loop
+    # pricing table loop
     - name : "Hollway, J. (2022). 'A framework for resilience of and in international networks' in A Research Agenda for Social Networks and Social Resilience. Edited by Emmanuel Lazega, Tom Snijders, and Rafael Wittek. Cheltenham: Edward Elgar, pp. 101-114."
 
-    # pricing item loop
+    # pricing table loop
     - name :  "Hollway, J. (2021). What's complex about regime complexity? It depends."
       button:
         label : "Published in: Complexity, Governance, and Networks 6(1): 68-81."
