@@ -809,9 +809,10 @@ a:hover {
 }
 
 .price-title h3 {
-  color: #57cbcc;
-  margin: 0 0 10px;
-  text-transform: uppercase;
+  color: #fff;
+  margin: 0 0 5px;
+  padding: 10px;
+  font-size: 16px;
 }
 
 .price-title p {
@@ -820,7 +821,7 @@ a:hover {
 }
 
 .price-title .value {
-  color: #57cbcc;
+  color: #fff;
   font-size: 30px;
 }
 
@@ -845,8 +846,9 @@ a:hover {
 }
 
 .pricing li .btn {
-  text-transform: uppercase;
-  margin: 20px 0;
+  margin: 0 0 5px;
+  padding: 10px;
+  font-size: 14px;
 }
 
 /*=================================================================
