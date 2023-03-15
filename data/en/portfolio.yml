@@ -18,6 +18,22 @@ portfolio:
       categories : ["Academic Partners"]
       # content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "https://www.graduateinstitute.ch/cies"
+    
+    # portfolio item loop
+    - name : Bernhard Bieri
+      image : images/portfolio/bernhard_bieri.jpg
+      # image_webp : images/portfolio/portfolio-3.webp
+      categories : ["Past Collaborators"]
+      # content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "https://www.linkedin.com/in/bernhard-bieri"
+    
+    # portfolio item loop
+    - name : Esther Peev
+      image : images/portfolio/esther_peev.jpg
+      # image_webp : images/portfolio/portfolio-4.webp
+      categories : ["Past Collaborators"]
+      # content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "https://linkedin.com/in/esther-peev-010427152"
 
     # # portfolio item loop
     # - name : Clock Product
