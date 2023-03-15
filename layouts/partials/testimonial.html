@@ -3,11 +3,11 @@
 {{ if $data.testimonial.testimonial.enable }}
 {{ with $data.testimonial.testimonial }}
 {{"<!-- Start Testimonial -->" | safeHTML}}
-<section id="testimonial" class="testimonial overly section bg-2"
+<section id="testimonial" class="testimonial overly section bg-2">
 	<div class="container">
 		<div class="row">
+		  {{"<!-- section title -->" | safeHTML }}
 			<div class="col-xl-12">
-			  {{"<!-- section title -->" | safeHTML }}
 				<div class="title text-center wow fadeIn" data-wow-duration="500ms">
 					<h2>{{ with .title }} {{ index (split . " ") 0 | safeHTML }} {{ end }}<span class="color">
 						{{ with .title }} {{ after (len (index (split . " ") 0)) . | safeHTML }} {{ end }}</span></h2>
@@ -15,6 +15,11 @@
 				</div>
 			</div>
 			{{"<!-- /section title -->" | safeHTML }}
+				{{"<!-- testimonial wrapper -->" | safeHTML}}
+				<div id="testimonials" class="wow fadeInUp" data-wow-duration="500ms" data-wow-delay="100ms">
+					{{ range .testimonial_item }}
+					{{"<!-- testimonial single -->" | safeHTML}}
+					<div class="item text-center">
 
 						{{"<!-- client photo -->" | safeHTML}}
 						<div class="client-thumb">
