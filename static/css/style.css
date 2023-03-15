@@ -816,13 +816,13 @@ a:hover {
 }
 
 .price-title p {
-  font-size: 18px;
-  font-weight: 400;
+  color: #fff;
+  font-size: 16px;
 }
 
 .price-title .value {
   color: #fff;
-  font-size: 30px;
+  font-size: 16px;
 }
 
 .pricing ul,
@@ -845,7 +845,7 @@ a:hover {
   background-color: #292F36;
 }
 
-.pricing li .btn {
+.pricing a .btn {
   margin: 0 0 5px;
   padding: 10px;
   font-size: 14px;
