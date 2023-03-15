@@ -25,11 +25,9 @@
 						<div class="client-info">
 							<div class="client-meta">
 								<h3>{{ .name }}</h3>
-								  <ul class="list-inline">
                     {{ range .name }}
-                    <li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .name }}"></i></a></li>
+                    <a href="{{ .link | safeURL }}"><i class="{{ .name }}"></i></a></li>
                     {{ end }}
-                  </ul>
 								<span>{{ .date }}</span>
 							</div>
 							<div class="client-comment">
