@@ -25,7 +25,7 @@
 						<div class="client-info">
 							<div class="client-meta">
 								<h3>{{ .name }}</h3>
-								  <a href="{{ .link | safeURL }}">{{ .label }}</a>
+								<li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .name }}"></i></a></li>
 								<span>{{ .date }}</span>
 							</div>
 							<div class="client-comment">

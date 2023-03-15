@@ -5,35 +5,35 @@ testimonial:
   testimonial_item :
     # testimonial item loop
     - name : "manypkgs: Support for Creating Ensembled Global Governance Data"
-        link : "https://globalgov.github.io/manypkgs/"
+      link : "https://globalgov.github.io/manypkgs/"
       image : images/client/manypkgs.png
 
     # testimonial item loop
     - name : "manydata: Portal for Global Governance Data"
-        link : "https://globalgov.github.io/manydata/"
+      link : "https://globalgov.github.io/manydata/"
       image : images/client/manydata.png
       
     # testimonial item loop
     - name : "manyenviron: Environmental Agreements for the 'many' Universe"
-        link : "https://globalgov.github.io/manyenviron/"
+      link : "https://globalgov.github.io/manyenviron/"
       image : images/client/manyenviron.png
 
     # testimonial item loop
     - name : "manytrade: Trade Agreements for the 'many' Universe"
-        link : "https://globalgov.github.io/manytrade/"
+      link : "https://globalgov.github.io/manytrade/"
       image : images/client/manytrade.png
 
     # testimonial item loop
     - name : "manyhealth: Health Agreements for the 'many' Universe"
-        link : "https://globalgov.github.io/manyhealth/"
+      link : "https://globalgov.github.io/manyhealth/"
       image : images/client/manyhealth.png
 
     # testimonial item loop
     - name : "manystates: States for the 'many' Universe"
-        link : "https://globalgov.github.io/manystates/"
+      link : "https://globalgov.github.io/manystates/"
       image : images/client/manystates.png
 
     # testimonial item loop
     - name : "migraph: Tools for Multimodal Network Analysis"
-        link : "https://snlab-ch.github.io/migraph/"
+      link : "https://snlab-ch.github.io/migraph/"
       image : images/client/migraph.png
