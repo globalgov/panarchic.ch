@@ -1184,13 +1184,13 @@ a:hover {
   margin: 30px 0 0;
 }
 
-#our-clietns .item img {
+#our-clients .item img {
   max-width: 150px;
   width: 100%;
 }
 
-#our-clietns .owl-next,
-#our-clietns .owl-prev {
+#our-clients .owl-next,
+#our-clients .owl-prev {
   border: 1px solid #ddd;
   border-radius: 50px;
   display: inline-block;
@@ -1200,12 +1200,12 @@ a:hover {
   text-align: center;
 }
 
-#our-clietns .owl-next i,
-#our-clietns .owl-prev i {
+#our-clients .owl-next i,
+#our-clients .owl-prev i {
   line-height: 34px;
 }
 
-#our-clietns .owl-prev {
+#our-clients .owl-prev {
   margin-right: 15px;
 }
 
