@@ -25,13 +25,14 @@
 						<div class="client-info">
 							<div class="client-meta">
 								<h3>{{ .name }}</h3>
-                    {{ range .name }}
-                    <a href="{{ .link | safeURL }}"><i class="{{ .name }}"></i></a></li>
-                    {{ end }}
 								<span>{{ .date }}</span>
 							</div>
 							<div class="client-comment">
-								<p>{{ .content | markdownify }}</p>
+								<ul class="list-inline">
+                {{ range .content }}
+                <li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
+                {{ end }}
+              </ul>
 							</div>
 						</div>
 					</div>

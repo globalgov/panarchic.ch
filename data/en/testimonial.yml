@@ -5,35 +5,49 @@ testimonial:
   testimonial_item :
     # testimonial item loop
     - name : "manypkgs: Support for Creating Ensembled Global Governance Data"
-      - link : "https://globalgov.github.io/manypkgs/"
-      image : images/client/manypkgs.png
+      image : images/client/manypkgs.jpg
+      content :
+        - icon : ti-new-window # themify icon pack : https://themify.me/themify-icons
+          link : "https://globalgov.github.io/manypkgs/"
 
     # testimonial item loop
     - name : "manydata: Portal for Global Governance Data"
-      - link : "https://globalgov.github.io/manydata/"
-      image : images/client/manydata.png
+      image : images/client/manydata.jpg
+      content :
+        - icon : ti-new-window # themify icon pack : https://themify.me/themify-icons
+          link : "https://globalgov.github.io/manydata/"
       
     # testimonial item loop
     - name : "manyenviron: Environmental Agreements for the 'many' Universe"
-      - link : "https://globalgov.github.io/manyenviron/"
-      image : images/client/manyenviron.png
+      image : images/client/manyenviron.jpg
+      content :
+        - icon : ti-new-window # themify icon pack : https://themify.me/themify-icons
+          link : "https://globalgov.github.io/manyenviron/"
 
     # testimonial item loop
     - name : "manytrade: Trade Agreements for the 'many' Universe"
-      - link : "https://globalgov.github.io/manytrade/"
-      image : images/client/manytrade.png
+      image : images/client/manytrade.jpg
+      content :
+        - icon : ti-new-window # themify icon pack : https://themify.me/themify-icons
+          link : "https://globalgov.github.io/manytrade/"
 
     # testimonial item loop
     - name : "manyhealth: Health Agreements for the 'many' Universe"
-      - link : "https://globalgov.github.io/manyhealth/"
-      image : images/client/manyhealth.png
+      image : images/client/manyhealth.jpg
+      content :
+        - icon : ti-new-window # themify icon pack : https://themify.me/themify-icons
+          link : "https://globalgov.github.io/manyhealth/"
 
     # testimonial item loop
     - name : "manystates: States for the 'many' Universe"
-      - link : "https://globalgov.github.io/manystates/"
-      image : images/client/manystates.png
+      image : images/client/manystates.jpg
+      content :
+        - icon : ti-new-window # themify icon pack : https://themify.me/themify-icons
+          link : "https://globalgov.github.io/manystates/"
 
     # testimonial item loop
     - name : "migraph: Tools for Multimodal Network Analysis"
-      - link : "https://snlab-ch.github.io/migraph/"
-      image : images/client/migraph.png
+      image : images/client/migraph.jpg
+      content :
+        - icon : ti-new-window # themify icon pack : https://themify.me/themify-icons
+          link : "https://snlab-ch.github.io/migraph/"
