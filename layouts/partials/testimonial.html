@@ -20,19 +20,19 @@
 						<div class="client-thumb">
 							<img class="img-fluid lozad" data-src="{{ .image_webp | absURL }}" onerror="this.onerror=null;this.src='{{ .image | absURL }}'" alt="{{ .name }}">
 						</div>
+						<div class="mask">
+								<ul class="list-inline">
+                {{ range .content }}
+                <li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
+                {{ end }}
+              </ul>
+						</div>
 
 						{{"<!-- client info -->" | safeHTML}}
 						<div class="client-info">
 							<div class="client-meta">
 								<h3>{{ .name }}</h3>
 								<span>{{ .date }}</span>
-							</div>
-							<div class="client-comment">
-								<ul class="list-inline">
-                {{ range .content }}
-                <li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
-                {{ end }}
-              </ul>
 							</div>
 						</div>
 					</div>
