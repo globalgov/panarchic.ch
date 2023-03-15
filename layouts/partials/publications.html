@@ -2,14 +2,14 @@
 
 {{ if $data.publications.publications.enable}}
 {{ with $data.publications.publications}}
-{{"<!-- Publications Section -->" | safeHTML }}
-<section class="publications section" id="publications">
+{{"<!-- publications -->" | safeHTML }}
+<section id="publicationss" class="bg-one section">
 	<div class="container">
 		<div class="row justify-content-center">
 			<div class="col-lg-12">
 				{{"<!-- section title -->" | safeHTML }}
-				<div class="title text-center wow fadeInUp" data-wow-duration="500ms">
-					<h2>{{ with .title }} {{ index (split . " ") .link | safeHTML }} {{ end }}<span class="color">
+				<div class="title text-center wow fadeIn" data-wow-duration="500ms">
+					<h2>{{ with .title }} {{ index (split . " ") 0 | safeHTML }} {{ end }}<span class="color">
 						{{ with .title }} {{ after (len (index (split . " ") 0)) . | safeHTML }} {{ end }}</span></h2>
 					<div class="border-meghna"></div>
 				</div>
@@ -17,9 +17,10 @@
 			{{"<!-- /section title -->" | safeHTML }}
 
 			{{ range .publications_item}}
-			{{"<!-- Publications Item -->" | safeHTML }}
-			<div class="col-lg-4 col-md-6 col-12 wow fadeInDown" data-wow-duration="500ms">
-				<div class="publications-item text-left">
+			{{"<!-- Single Publications Item -->" | safeHTML }}
+			<article class="col-lg-4 col-md-6 col-12 wow fadeInUp" data-wow-duration="500ms">
+				<div class="publications-block text-center">
+					<div class="publications-icon text-center">
 						<i class="{{ .icon }}"></i>
 					</div>
 					<h3>{{ .name | markdownify }}</h3>
