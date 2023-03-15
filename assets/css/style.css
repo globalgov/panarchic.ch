@@ -993,14 +993,14 @@ a:hover {
 }
 
 /*=================================================================
-  Publications
+  Our skills
 ==================================================================*/
-.publications-bar p {
+.skill-bar p {
   font-size: 18px;
   margin-bottom: 0;
 }
 
-.publications-bar p span {
+.skill-bar p span {
   font-style: italic;
   font-size: 30px;
   color: rgba(187, 187, 187, 0.34);
@@ -1008,12 +1008,12 @@ a:hover {
   vertical-align: middle;
 }
 
-.publications-bar .progress {
+.skill-bar .progress {
   height: 6px;
   border-radius: 0;
 }
 
-.publications-bar .progress .progress-bar {
+.skill-bar .progress .progress-bar {
   background: #57cbcc;
 }
 
