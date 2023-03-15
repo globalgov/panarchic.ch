@@ -18,8 +18,6 @@
   translation: Service
 - id: portfolio
   translation: Portfolio
-- id: publications
-  translation: Publications
 - id: team
   translation: Team
 - id: pricing
