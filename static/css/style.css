@@ -1135,9 +1135,7 @@ a:hover {
 }
 
 .client-thumb img {
-  border-radius: 50%;
   margin: 0 auto;
-  max-width: 115px;
   width: 100%;
 }
 
