@@ -943,9 +943,9 @@ a:hover {
 }
 
 /*=================================================================
-  Publications section
+  Services section
 ==================================================================*/
-.publications-block {
+.service-block {
   padding: 60px 20px;
   border-left: 1px solid rgba(236, 239, 241, 0.07);
   border-top: 1px solid rgba(236, 239, 241, 0.07);
@@ -953,32 +953,32 @@ a:hover {
   box-shadow: 2px 2px 5px rgba(44, 44, 44, 0.3), 13px 13px 0 rgba(255, 255, 255, 0.7);
 }
 
-.publications-block .publications-icon {
+.service-block .service-icon {
   margin-bottom: 10px;
   font-size: 50px;
 }
 
 /*=================================================================
-  Publications section 2
+  Services section 2
 ==================================================================*/
-.publications-2 .publications-item {
+.service-2 .service-item {
   border: 1px solid #eee;
   margin-bottom: 30px;
   padding: 50px 20px;
   transition: all 0.3s ease 0s;
 }
 
-.publications-2 .publications-item:hover {
+.service-2 .service-item:hover {
   box-shadow: 0 5px 65px 0 rgba(0, 0, 0, 0.15);
   -webkit-box-shadow: 0 5px 65px 0 rgba(0, 0, 0, 0.15);
 }
 
-.publications-2 .publications-item:hover i {
+.service-2 .service-item:hover i {
   background: #fff;
   color: #57cbcc;
 }
 
-.publications-2 .publications-item i {
+.service-2 .service-item i {
   font-size: 30px;
   display: inline-block;
   background: #57cbcc none repeat scroll 0 0;
