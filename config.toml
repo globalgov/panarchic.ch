@@ -60,6 +60,12 @@ pre = "#"
 url = "portfolio"
 weight = 3
 
+[[Languages.en.menu.main]]
+name = "Publications"
+pre = "#"
+url = "publications"
+weight = 4
+
 # [[Languages.en.menu.main]]
 # name = "team"
 # pre = "#"
