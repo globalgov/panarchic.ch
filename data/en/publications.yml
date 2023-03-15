@@ -1,7 +1,7 @@
 ############################### publications #####################
 publications:
   enable : true
-  title : Our Team
+  title : Our Publications
   publications_item :
   # publications item loop
     - title : "Laurens, N., Hollway, J., and Morin, J-F. (2023). Checking for Updates: Ratification, Design, and Institutional Adaptation. Published in: International Studies Quarterly."

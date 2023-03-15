@@ -61,7 +61,7 @@ url = "portfolio"
 weight = 3
 
 [[Languages.en.menu.main]]
-name = "Publications"
+name = "Our Publications"
 pre = "#"
 url = "publications"
 weight = 4
