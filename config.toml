@@ -63,7 +63,7 @@ weight = 3
 [[Languages.en.menu.main]]
 name = "Our Publications"
 pre = "#"
-url = "publications"
+url = "pricing"
 weight = 4
 
 # [[Languages.en.menu.main]]
