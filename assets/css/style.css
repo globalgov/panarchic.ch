@@ -1140,6 +1140,12 @@ a:hover {
   max-width: 150px;
 }
 
+.client-thumb .mask ul li a:hover {
+  background-color: #fff;
+  color: #57cbcc;
+  border: 1px solid transparent;
+}
+
 .client-meta {
   margin: 0 0 10px;
 }
