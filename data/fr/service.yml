@@ -1,34 +1,32 @@
 ################################# Service #################################
 service:
-  enable : false
-  title : Our Services
+  enable : true
+  title : Our Packages
   service_item :
     # service item loop
-    - name : WordPress Theme
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : "manypkgs: Support for Creating Ensembled Global Governance Data"
+      image : images/service/manypkgs.jpg
 
     # service item loop
-    - name : Responsive Design
-      icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : "manydata: Portal for Global Governance Data"
+      image : images/service/manydata.jpg
+      
+    # service item loop
+    - name : "manyenviron: Environmental Agreements for the 'many' Universe"
+      image : images/service/manyenviron.jpg
 
     # service item loop
-    - name : Media &amp; Advertisement
-      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : "manytrade: Trade Agreements for the 'many' Universe"
+      image : images/service/manytrade.jpg
 
     # service item loop
-    - name : Graphic Design
-      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : "manyhealth: Health Agreements for the 'many' Universe"
+      image : images/service/manyhealth.jpg
 
     # service item loop
-    - name : Apps Development
-      icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : "manystates: States for the 'many' Universe"
+      image : images/service/manystates.jpg
 
     # service item loop
-    - name : Networking
-      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : "migraph: Tools for Multimodal Network Analysis"
+      image : images/service/migraph.jpg
