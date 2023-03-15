@@ -66,17 +66,17 @@ pre = "#"
 url = "pricing"
 weight = 4
 
-[[Languages.en.menu.main]]
-name = "Our Packages"
-pre = "#"
-url = "service"
-weight = 5
-#
 # [[Languages.en.menu.main]]
 # name = "team"
 # pre = "#"
 # url = "team"
 # weight = 4
+#
+# [[Languages.en.menu.main]]
+# name = "pricing"
+# pre = "#"
+# url = "pricing"
+# weight = 5
 #
 # [[Languages.en.menu.main]]
 # name = "blog"
@@ -122,17 +122,17 @@ pre = "#"
 url = "pricing"
 weight = 4
 
-[[Languages.fr.menu.main]]
-name = "Nos Packages"
-pre = "#"
-url = "service"
-weight = 5
-
 # [[Languages.fr.menu.main]]
 # name = "équipe"
 # pre = "#"
 # url = "team"
 # weight = 4
+#
+# [[Languages.fr.menu.main]]
+# name = "tarification"
+# pre = "#"
+# url = "pricing"
+# weight = 5
 #
 # [[Languages.fr.menu.main]]
 # name = "blog"
