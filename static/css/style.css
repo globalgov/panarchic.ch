@@ -798,11 +798,8 @@ a:hover {
   Pricing section
 ==================================================================*/
 .price-item {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  height: 400px; /* adjust height as needed */
   border: 1px solid rgba(236, 239, 241, 0.07);
+  padding-bottom: 30px;
   margin-bottom: 15px;
 }
 
@@ -853,7 +850,6 @@ a:hover {
   padding: 10px;
   font-size: 14px;
 }
-
 
 /*=================================================================
   Portfolio section
