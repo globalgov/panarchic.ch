@@ -1204,8 +1204,11 @@ a:hover {
   display: inline-block;
   margin: 45px 0 0;
   padding: 3px 15px;
-  position: relative;
+  position: absolute;
   text-align: center;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 10;
 }
 
 #our-clients .owl-next i,
@@ -1214,12 +1217,17 @@ a:hover {
 }
 
 #our-clients .owl-prev {
-  margin-right: 15px;
+  left: -50px;
+}
+
+#our-clients .owl-next {
+  right: -50px;
 }
 
 #our-clients .item {
   margin: 10px;
 }
+
 
 /*=================================================================
   Latest Posts
