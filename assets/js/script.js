@@ -203,7 +203,7 @@ particlesJS("particles-js", {"particles": {
 	},
 	"move": {
 		"enable": true,
-		"speed": 80,
+		"speed": 0.5,
 		"direction": "none",
 		"random": true,
 		"straight": false,
