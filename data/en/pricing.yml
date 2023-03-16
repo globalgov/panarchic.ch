@@ -10,7 +10,7 @@ pricing:
         link : "#"
 
     # pricing table loop
-    - name : "Hollway, J. (2023). Design paths of federal intergovernmental cooperation."
+    - name : "Montfort, S., Fischer, M., Jager, N., and Hollway, J. (2023). Design paths of federal intergovernmental cooperation."
       button:
         label : "Published in: Policy Studies Journal."
         link : "#"
