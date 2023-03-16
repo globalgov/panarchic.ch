@@ -797,18 +797,10 @@ a:hover {
 /*=================================================================
   Pricing section
 ==================================================================*/
-/* Pricing section */
-.pricing {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-}
-
 .price-item {
   border: 1px solid rgba(236, 239, 241, 0.07);
-  padding: 30px 0;
-  margin: 15px;
-  flex: 1 1 250px; /* set equal width for all items */
+  padding-bottom: 30px;
+  margin-bottom: 15px;
 }
 
 .price-title {
