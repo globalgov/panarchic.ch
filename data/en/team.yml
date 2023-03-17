@@ -75,7 +75,7 @@ team:
       # image_webp : images/team/team-4.webp
       image : images/team/diego.jpg
       designation : Research Assistant
-      content : Masters student in Development Studies.
+      content : Masters Student in Development Studies.
       social :
         - icon : ti-email # themify icon pack : https://themify.me/themify-icons
           link : "mailto:diego.del@graduateinstitute.ch"
