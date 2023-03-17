@@ -1,92 +1,28 @@
 #################################### portfolio ###############################
 portfolio:
-  enable : true
-  title : Our Partners
-  portfolio_item :
+  enable: true
+  title: Our Partners
+  portfolio_item:
     # portfolio item loop
-    - name : Swiss National Fund
-      image : images/portfolio/snflogo.png
-      # image_webp : images/portfolio/portfolio-1.webp
-      categories : ["Institutional Partners"]
-      # content : Swiss National Fund
-      link : "http://p3.snf.ch/Project-188976#"
+    - name: Swiss National Fund
+      image: images/portfolio/snflogo.png
+      categories: ["Institutional Partners"]
+      link: "http://p3.snf.ch/Project-188976#"
 
     # portfolio item loop
-    - name : Graduate Institue Center for International Environmental Studies
-      image : images/portfolio/Logo_CIES.png
-      # image_webp : images/portfolio/portfolio-2.webp
-      categories : ["Academic Partners"]
-      # content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "https://www.graduateinstitute.ch/cies"
+    - name: Graduate Institute Center for International Environmental Studies
+      image: images/portfolio/Logo_CIES.png
+      categories: ["Academic Partners"]
+      link: "https://www.graduateinstitute.ch/cies"
     
     # portfolio item loop
-    - name : Bernhard Bieri
-      image : images/portfolio/bernhard_bieri.jpg
-      # image_webp : images/portfolio/portfolio-3.webp
-      categories : ["Past Collaborators"]
-      # content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "https://www.linkedin.com/in/bernhard-bieri"
+    - name: Bernhard Bieri
+      image: images/portfolio/bernhard_bieri.jpg
+      categories: ["Past Collaborators"]
+      link: "https://www.linkedin.com/in/bernhard-bieri"
     
     # portfolio item loop
-    - name : Esther Peev
-      image : images/portfolio/esther_peev.jpg
-      # image_webp : images/portfolio/portfolio-4.webp
-      categories : ["Past Collaborators"]
-      # content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "https://linkedin.com/in/esther-peev-010427152"
-
-    # # portfolio item loop
-    # - name : Clock Product
-    #   image : images/portfolio/portfolio-3.jpg
-    #   # image_webp : images/portfolio/portfolio-3.webp
-    #   # categories : ["partners"]
-    #   content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    #   link : "#"
-    #
-    # # portfolio item loop
-    # - name : Bottol Label
-    #   image : images/portfolio/portfolio-4.jpg
-    #   # image_webp : images/portfolio/portfolio-4.webp
-    #   # categories : ["photography", "development"]
-    #   content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    #   link : "#"
-    #
-    # # portfolio item loop
-    # - name : Shopping Bag
-    #   image : images/portfolio/portfolio-5.jpg
-    #   # image_webp : images/portfolio/portfolio-5.webp
-    #   # categories : ["design"]
-    #   content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    #   link : "#"
-    #
-    # # portfolio item loop
-    # - name : Tag Design
-    #   image : images/portfolio/portfolio-6.jpg
-    #   # image_webp : images/portfolio/portfolio-6.webp
-    #   # categories : ["photography"]
-    #   content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    #   link : "#"
-    #
-    # # portfolio item loop
-    # - name : Business Card
-    #   image : images/portfolio/portfolio-7.jpg
-    #   # image_webp : images/portfolio/portfolio-7.webp
-    #   # categories : ["development"]
-    #   content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    #   link : "#"
-    #
-    # # portfolio item loop
-    # - name : Stationary Design
-    #   image : images/portfolio/portfolio-8.jpg
-    #   # image_webp : images/portfolio/portfolio-8.webp
-    #   # categories : ["design", "development"]
-    #   content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    #   link : "#"
-    #
-    # # portfolio item loop
-    # - name : Tag Design
-    #   image : images/portfolio/portfolio-2.jpg
-    #   image_webp : images/portfolio/portfolio-2.webp
-    #   categories : ["design", "photography"]
-    #   content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    #   link : "#"
+    - name: Esther Peev
+      image: images/portfolio/esther_peev.jpg
+      categories: ["Past Collaborators"]
+      link: "https://linkedin.com/in/esther-peev-010427152"
