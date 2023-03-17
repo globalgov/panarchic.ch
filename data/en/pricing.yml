@@ -24,7 +24,7 @@ pricing:
     # pricing table loop
     - name : "Viewing the Global Health System as a Complex Adaptive System: Implications for Research and Practice."
       button:
-        label : "Borghi, J., Ismail, S., Hollway, J., Kim, R. E., Sturmberg, J., Brown, G., Mechler, R., Volmink, H., Spicer, N., Chalabi, Z., Cassidy, R., Johnson, J., Foss, A., Koduah, A., Searle, C., Komendantova, N., Semwanga, A., and Moon, s. (2022). Published: F1000"
+        label : "Borghi, J. et al. (2022). Published: F1000"
         link : "https://doi.org/10.12688/f1000research.126201.1"
 
     # pricing table loop
