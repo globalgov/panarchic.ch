@@ -4,28 +4,10 @@ pricing:
   title : Our Publications
   pricing_table :
     # pricing table loop
-    - name : "Checking for Updates: Ratification, Design, and Institutional Adaptation"
+    - name :  "What's Complex About Regime Complexity? It Depends."
       button:
-        label : "Laurens, N., Hollway, J., and Morin, J-F. (2023). Published: International Studies Quarterly."
-        link : "#"
-
-    # pricing table loop
-    - name : "Design Paths of Federal Intergovernmental Cooperation."
-      button:
-        label : "Montfort, S., Fischer, M., Jager, N., and Hollway, J. (2023). Published: Policy Studies Journal."
-        link : "#"
-
-    # pricing table loop
-    - name : "Multimodal Mechanisms of Political Discourse Dynamics and the Case of Germany's Nuclear Energy Phase-out."
-      button:
-        label : "Haunss, S., and Hollway, J. (2023). Published: Network Science."
-        link : "https://doi.org/10.1017/nws.2022.31"
-
-    # pricing table loop
-    - name : "Viewing the Global Health System as a Complex Adaptive System: Implications for Research and Practice."
-      button:
-        label : "Borghi, J. et al. (2022). Published: F1000"
-        link : "https://doi.org/10.12688/f1000research.126201.1"
+        label : "Hollway, J. (2021). Published: Complexity, Governance, and Networks 6(1): 68-81."
+        link : "https://doi.org/10.20377/cgn-100"
 
     # pricing table loop
     - name : "'A Framework for Resilience of and in International Networks' in A Research Agenda for Social Networks and Social Resilience"
@@ -34,7 +16,32 @@ pricing:
         link : "https://doi.org/10.4337/9781803925783.00013"
 
     # pricing table loop
-    - name :  "What's Complex About Regime Complexity? It Depends."
+    - name : "Viewing the Global Health System as a Complex Adaptive System: Implications for Research and Practice."
       button:
-        label : "Hollway, J. (2021). Published: Complexity, Governance, and Networks 6(1): 68-81."
-        link : "https://doi.org/10.20377/cgn-100"
+        label : "Borghi, J. et al. (2022). Published: F1000"
+        link : "https://doi.org/10.12688/f1000research.126201.1"
+    
+    # pricing table loop
+    - name : "Multimodal Mechanisms of Political Discourse Dynamics and the Case of Germany's Nuclear Energy Phase-out."
+      button:
+        label : "Haunss, S., and Hollway, J. (2023). Published: Network Science."
+        link : "https://doi.org/10.1017/nws.2022.31"
+    
+    # pricing table loop
+    - name : "Design Paths of Federal Intergovernmental Cooperation."
+      button:
+        label : "Montfort, S., Fischer, M., Jager, N., and Hollway, J. (2023). Published: Policy Studies Journal."
+        link : "#"
+
+    # pricing table loop
+    - name : "Checking for Updates: Ratification, Design, and Institutional Adaptation"
+      button:
+        label : "Laurens, N., Hollway, J., and Morin, J-F. (2023). Published: International Studies Quarterly."
+        link : "#"
+
+
+    
+
+
+   
+    
