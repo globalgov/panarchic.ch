@@ -4,9 +4,9 @@ pricing:
   title : Our Publications
   pricing_table :
     # pricing table loop
-    - name : "Authors: Laurens, N., Hollway, J., and Morin, J-F. Published in: International Studies Quarterly (2023)."
+    - name : "Laurens, N., Hollway, J., and Morin, J-F. (2023). Checking for Updates: Ratification, Design, and Institutional Adaptation."
       button:
-        label : "Checking for Updates: Ratification, Design, and Institutional Adaptation.
+        label : "Published in: International Studies Quarterly."
         link : "#"
 
     # pricing table loop
