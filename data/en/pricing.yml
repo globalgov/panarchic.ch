@@ -7,11 +7,13 @@ pricing:
     - name : "Checking for Updates: Ratification, Design, and Institutional Adaptation"
       button:
         label : "Laurens, N., Hollway, J., and Morin, J-F. (2023). Published: International Studies Quarterly."
+        link : "#"
 
     # pricing table loop
     - name : "Design Paths of Federal Intergovernmental Cooperation."
       button:
         label : "Montfort, S., Fischer, M., Jager, N., and Hollway, J. (2023). Published: Policy Studies Journal."
+        link : "#"
 
     # pricing table loop
     - name : "Multimodal Mechanisms of Political Discourse Dynamics and the Case of Germany's Nuclear Energy Phase-out."
