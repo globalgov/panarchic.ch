@@ -31,6 +31,7 @@ pricing:
     - name : "'A Framework for Resilience of and in International Networks' in A Research Agenda for Social Networks and Social Resilience"
       button:
         label : "Hollway, J. (2022). Edited by Emmanuel Lazega, Tom Snijders, and Rafael Wittek. Cheltenham: Edward Elgar, pp. 101-114."
+        link : "https://doi.org/10.4337/9781803925783.00013"
 
     # pricing table loop
     - name :  "What's Complex About Regime Complexity? It Depends."
