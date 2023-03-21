@@ -19,26 +19,39 @@
         </div>
       </div>
       {{"<!-- /section title -->" | safeHTML}}
-	
-	<div class="hexBadges">
-        {{ $col0 := .Params.col0 }}
-        {{ with $col0 }}
-        {{ with .row1 }}<a href="https://globalgov.github.io/manyenviron/"><img src="https://raw.githubusercontent.com/globalgov/manyenviron/main/man/figures/manyenviron_hexlogo.png" alt="manyenviron hex sticker" class="r1 c0"></a>{{ end }}
-        {{ with .row2 }}<a href="https://globalgov.github.io/manytrade/"><img src="https://raw.githubusercontent.com/globalgov/manytrade/main/man/figures/manytradeContainer.png" alt="manytrade hex sticker" class="r2 c0"></a>{{ end }}
-        {{ with .row3 }}<a href="https://globalgov.github.io/manydata/"><img src="https://raw.githubusercontent.com/globalgov/manydata/main/man/figures/manydataLogo.png" alt="manydata hex sticker" class="r3 c0"></a>{{ end }}
-        {{ end }}
-        {{ $col1 := .Params.col1 }}
-        {{ with $col1 }}
-        {{ with .row2 }}<a href="https://globalgov.github.io/manypkgs/"><img src="https://raw.githubusercontent.com/globalgov/manypkgs/main/man/figures/manypkgslogo.png" alt="manypkgs hex sticker" class="r2 c1"></a>{{ end }}
-        {{ end }}
-        {{ $col2 := .Params.col2 }}
-        {{ with $col2 }}
-        {{ with .row1 }}<a href="https://{{ . }}{{ $.Site.Params.hex_base_url }}"><img src="{{ printf ("/css/images/hex/%s.%s") . "png" }}" alt="{{ . }} hex sticker" class="r1 c2"></a>{{ end }}
-        {{ with .row2 }}<a href="https://globalgov.github.io/manyhealth/"><img src="https://raw.githubusercontent.com/globalgov/manyhealth/master/man/figures/manyhealthLogo.png" alt="manyhealth hex sticker" class="r2 c2"></a>{{ end }}
-        {{ with .row3 }}<a href="https://snlab-ch.github.io/migraph/"><img src="https://raw.githubusercontent.com/snlab-ch/migraph/main/man/figures/logo.png" alt="migraph hex sticker" class="r3 c2"></a>{{ end }}
-        {{ end }}
-      </div>
-	
+	<div class="container">
+		<div class="row">
+			<div class="col-xl-12">
+				{{"<!-- testimonial wrapper -->" | safeHTML}}
+				<div id="testimonials" class="wow fadeInUp" data-wow-duration="500ms" data-wow-delay="100ms">
+					{{ range .testimonial_item }}
+					{{"<!-- testimonial single -->" | safeHTML}}
+					<div class="item text-center">
+
+						{{"<!-- client photo -->" | safeHTML}}
+						<div class="client-thumb">
+							<img class="img-fluid lozad" data-src="{{ .image_webp | absURL }}" onerror="this.onerror=null;this.src='{{ .image | absURL }}'" alt="{{ .name }}">
+						</div>
+						<div class="mask">
+								<ul class="list-inline">
+                {{ range .content }}
+                <li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
+                {{ end }}
+              </ul>
+						</div>
+
+						{{"<!-- client info -->" | safeHTML}}
+						<div class="client-info">
+							<div class="client-meta">
+								<h3>{{ .name }}</h3>
+								<span>{{ .date }}</span>
+							</div>
+						</div>
+					</div>
+					{{"<!-- /testimonial single -->" | safeHTML}}
+					{{ end }}
+				</div>
+			</div>
 		</div>
 	</div>
 </section>
