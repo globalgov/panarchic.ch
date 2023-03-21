@@ -69,7 +69,7 @@ weight = 4
 [[Languages.en.menu.main]]
 name = "Our Packages"
 pre = "#"
-url = "pkgs"
+url = "testimonial"
 weight = 5
 
 # [[Languages.en.menu.main]]
