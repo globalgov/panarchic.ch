@@ -13,7 +13,8 @@
 .hexBadges {
   position: relative;
   width: 500px;
-  margin-top: -200px;
+  margin: auto;
+  margin-top: 0px;
   height: 640px; }
   .hexBadges img {
     width: 140px;
