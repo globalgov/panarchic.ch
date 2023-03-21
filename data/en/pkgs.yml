@@ -1,5 +1,0 @@
-################################# pkgs #########################
-pkgs:
-  enable : true
-  title : Our Packages
-  
