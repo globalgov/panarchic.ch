@@ -2308,7 +2308,7 @@ figcaption {
 /*=================================================================
 	Packages honeycomb
 ==================================================================*/
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 1401px) {
 .hexBadges {
   position: relative;
   width: 640px;
@@ -2362,7 +2362,7 @@ figcaption {
 @media screen and (max-width: 1400px) {
 .hexBadges {
   position: relative;
-  width: 400px;
+  width: 480px;
   margin-top: -100px;
   margin-left: auto;
   margin-right: auto;
@@ -2394,17 +2394,17 @@ figcaption {
     .hexBadges img.r1.c0, .hexBadges img.r3.c0, .hexBadges img.r5.c0 {
       left: 0px; }
     .hexBadges img.r0.c0, .hexBadges img.r2.c0, .hexBadges img.r4.c0 {
-      left: 56px; }
+      left: 56.25px; }
     .hexBadges img.r1.c1, .hexBadges img.r3.c1, .hexBadges img.r5.c1 {
-      left: 112px; }
+      left: 112.5px; }
     .hexBadges img.r0.c1, .hexBadges img.r2.c1, .hexBadges img.r4.c1 {
-      left: 168px; }
+      left: 168.75px; }
     .hexBadges img.r1.c2, .hexBadges img.r3.c2, .hexBadges img.r5.c2 {
-      left: 224px; }
+      left: 225px; }
     .hexBadges img.r0.c2, .hexBadges img.r2.c2, .hexBadges img.r4.c2 {
-      left: 280px; }
+      left: 280.25px; }
     .hexBadges img.r1.c3, .hexBadges img.r3.c3, .hexBadges img.r5.c3 {
-      left: 336px; }
+      left: 336.50px; }
     .hexBadges img.r0.c3, .hexBadges img.r2.c3, .hexBadges img.r4.c3 {
-      left: 392px; }
+      left: 392.75px; }
 }
