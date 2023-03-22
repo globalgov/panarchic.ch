@@ -2308,7 +2308,7 @@ figcaption {
 /*=================================================================
 	Packages honeycomb
 ==================================================================*/
-@media screen and (min-width: 1401px) {
+@media screen and (min-width: 801px) {
 .hexBadges {
   position: relative;
   width: 640px;
@@ -2359,7 +2359,7 @@ figcaption {
 }
 
 
-@media screen and (max-width: 1400px) {
+@media screen and (max-width: 800px) {
 .hexBadges {
   position: relative;
   width: 380px;
