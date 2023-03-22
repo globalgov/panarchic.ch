@@ -2358,105 +2358,6 @@ figcaption {
       left: 625px; }
 }
 
-@media screen and (min-width: 800px) {
-.hexBadges {
-  position: relative;
-  width: 640px;
-  margin-top: -100px;
-  margin-left: auto;
-  margin-right: auto;
-  height: 640px; }
-  .hexBadges img {
-    width: 140px;
-    height: 162px;
-    position: absolute;
-    -webkit-transition-property: opacity;
-    -moz-transition-property: opacity;
-    -o-transition-property: opacity;
-    transition-property: opacity;
-    -webkit-transition-duration: 0.25s;
-    -moz-transition-duration: 0.25s;
-    -o-transition-duration: 0.25s;
-    transition-duration: 0.25s; }
-    .hexBadges img.r0 {
-      top: 0px; }
-    .hexBadges img.r1 {
-      top: 120px; }
-    .hexBadges img.r2 {
-      top: 255px; }
-    .hexBadges img.r3 {
-      top: 390px; }
-    .hexBadges img.r4 {
-      top: 525px; }
-    .hexBadges img.r5 {
-      top: 660px; }
-    .hexBadges img.r1.c0, .hexBadges img.r3.c0, .hexBadges img.r5.c0 {
-      left: 100px; }
-    .hexBadges img.r0.c0, .hexBadges img.r2.c0, .hexBadges img.r4.c0 {
-      left: 175px; }
-    .hexBadges img.r1.c1, .hexBadges img.r3.c1, .hexBadges img.r5.c1 {
-      left: 250px; }
-    .hexBadges img.r0.c1, .hexBadges img.r2.c1, .hexBadges img.r4.c1 {
-      left: 325px; }
-    .hexBadges img.r1.c2, .hexBadges img.r3.c2, .hexBadges img.r5.c2 {
-      left: 400px; }
-    .hexBadges img.r0.c2, .hexBadges img.r2.c2, .hexBadges img.r4.c2 {
-      left: 475px; }
-    .hexBadges img.r1.c3, .hexBadges img.r3.c3, .hexBadges img.r5.c3 {
-      left: 550px; }
-    .hexBadges img.r0.c3, .hexBadges img.r2.c3, .hexBadges img.r4.c3 {
-      left: 625px; }
-}
-
-@media screen and (min-width: 800px) {
-.hexBadges {
-  position: relative;
-  width: 640px;
-  margin-top: -100px;
-  margin-left: auto;
-  margin-right: auto;
-  height: 640px; }
-  .hexBadges img {
-    width: 140px;
-    height: 162px;
-    position: absolute;
-    -webkit-transition-property: opacity;
-    -moz-transition-property: opacity;
-    -o-transition-property: opacity;
-    transition-property: opacity;
-    -webkit-transition-duration: 0.25s;
-    -moz-transition-duration: 0.25s;
-    -o-transition-duration: 0.25s;
-    transition-duration: 0.25s; }
-    .hexBadges img.r0 {
-      top: 0px; }
-    .hexBadges img.r1 {
-      top: 120px; }
-    .hexBadges img.r2 {
-      top: 255px; }
-    .hexBadges img.r3 {
-      top: 390px; }
-    .hexBadges img.r4 {
-      top: 525px; }
-    .hexBadges img.r5 {
-      top: 660px; }
-    .hexBadges img.r1.c0, .hexBadges img.r3.c0, .hexBadges img.r5.c0 {
-      left: 100px; }
-    .hexBadges img.r0.c0, .hexBadges img.r2.c0, .hexBadges img.r4.c0 {
-      left: 175px; }
-    .hexBadges img.r1.c1, .hexBadges img.r3.c1, .hexBadges img.r5.c1 {
-      left: 250px; }
-    .hexBadges img.r0.c1, .hexBadges img.r2.c1, .hexBadges img.r4.c1 {
-      left: 325px; }
-    .hexBadges img.r1.c2, .hexBadges img.r3.c2, .hexBadges img.r5.c2 {
-      left: 400px; }
-    .hexBadges img.r0.c2, .hexBadges img.r2.c2, .hexBadges img.r4.c2 {
-      left: 475px; }
-    .hexBadges img.r1.c3, .hexBadges img.r3.c3, .hexBadges img.r5.c3 {
-      left: 550px; }
-    .hexBadges img.r0.c3, .hexBadges img.r2.c3, .hexBadges img.r4.c3 {
-      left: 625px; }
-}
 
 @media screen and (max-width: 1400px) {
 .hexBadges {
@@ -2491,19 +2392,19 @@ figcaption {
     .hexBadges img.r5 {
       top: 660px; }
     .hexBadges img.r1.c0, .hexBadges img.r3.c0, .hexBadges img.r5.c0 {
-      left: 100px; }
+      left: 0px; }
     .hexBadges img.r0.c0, .hexBadges img.r2.c0, .hexBadges img.r4.c0 {
-      left: 175px; }
+      left: 75px; }
     .hexBadges img.r1.c1, .hexBadges img.r3.c1, .hexBadges img.r5.c1 {
-      left: 250px; }
+      left: 150px; }
     .hexBadges img.r0.c1, .hexBadges img.r2.c1, .hexBadges img.r4.c1 {
-      left: 325px; }
+      left: 225px; }
     .hexBadges img.r1.c2, .hexBadges img.r3.c2, .hexBadges img.r5.c2 {
-      left: 400px; }
+      left: 300px; }
     .hexBadges img.r0.c2, .hexBadges img.r2.c2, .hexBadges img.r4.c2 {
-      left: 475px; }
+      left: 375px; }
     .hexBadges img.r1.c3, .hexBadges img.r3.c3, .hexBadges img.r5.c3 {
-      left: 550px; }
+      left: 450px; }
     .hexBadges img.r0.c3, .hexBadges img.r2.c3, .hexBadges img.r4.c3 {
-      left: 625px; }
+      left: 525px; }
 }
