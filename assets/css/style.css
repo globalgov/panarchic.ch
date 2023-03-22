@@ -2458,7 +2458,7 @@ figcaption {
       left: 625px; }
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 1400px) {
 .hexBadges {
   position: relative;
   width: 400px;
