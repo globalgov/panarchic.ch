@@ -2312,7 +2312,7 @@ figcaption {
 .hexBadges {
   position: relative;
   width: 500px;
-  margin: auto;
+  margin-top: -200px;
   height: 640px; }
   .hexBadges img {
     width: 140px;
