@@ -2311,9 +2311,9 @@ figcaption {
 
 .hexBadges {
   position: relative;
-  width: 500px;
-  margin-top: -200px;
-  height: 640px; }
+  width: 65%;
+  margin-left: auto;
+  margin-right: auto; }
   .hexBadges img {
     width: 140px;
     height: 162px;
