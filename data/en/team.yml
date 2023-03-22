@@ -28,6 +28,7 @@ team:
       image : images/team/henrique_sposito.jpg
       designation : Doctoral Research Assistant
       content : PhD Student in International Relations/Political Science.
+      thesis :  Thesis title\: “Tell it how it is”: Authenticity, setting, and urgency in political discourses.
       social :
         - icon : ti-email # themify icon pack : https://themify.me/themify-icons
           link : "mailto:henrique.sposito@graduateinstitute.ch"
@@ -44,6 +45,7 @@ team:
       image : images/team/JaelYiTan.jpg
       designation : Doctoral Research Assistant
       content : PhD Student in International Relations/Political Science.
+      thesis :  Regional Organisations and the Strategies of Less Powerful States in Region Building.
       social :
         - icon : ti-email # themify icon pack : https://themify.me/themify-icons
           link : "mailto:jael.tan@graduateinstitute.ch"
