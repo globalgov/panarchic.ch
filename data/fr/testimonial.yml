@@ -51,3 +51,10 @@ testimonial:
       content :
         - icon : ti-new-window # themify icon pack : https://themify.me/themify-icons
           link : "https://snlab-ch.github.io/migraph/"
+
+    # testimonial item loop
+    - name : "messydates: A Flexible Class for Messy Dates"
+      image : images/client/messydates.png
+      content :
+        - icon : ti-new-window # themify icon pack : https://themify.me/themify-icons
+          link : "https://globalgov.github.io/messydates/"
