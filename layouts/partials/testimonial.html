@@ -20,40 +20,18 @@
       </div>
       {{"<!-- /section title -->" | safeHTML}}
 	<div class="container">
-		<div class="row">
-			<div class="col-xl-12">
-				{{"<!-- testimonial wrapper -->" | safeHTML}}
-				<div id="testimonials" class="wow fadeInUp" data-wow-duration="500ms" data-wow-delay="100ms">
-					{{ range .testimonial_item }}
-					{{"<!-- testimonial single -->" | safeHTML}}
-					<div class="item text-center">
-
-						{{"<!-- client photo -->" | safeHTML}}
-						<div class="client-thumb">
-							<img class="img-fluid lozad" data-src="{{ .image_webp | absURL }}" onerror="this.onerror=null;this.src='{{ .image | absURL }}'" alt="{{ .name }}">
-						</div>
-						<div class="mask">
-								<ul class="list-inline">
-                {{ range .content }}
-                <li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
-                {{ end }}
-              </ul>
-						</div>
-
-						{{"<!-- client info -->" | safeHTML}}
-						<div class="client-info">
-							<div class="client-meta">
-								<h3>{{ .name }}</h3>
-								<span>{{ .date }}</span>
-							</div>
-						</div>
-					</div>
-					{{"<!-- /testimonial single -->" | safeHTML}}
-					{{ end }}
-				</div>
-			</div>
+		<div class="hexBadges">
+		  <a href="https://globalgov.github.io/manyenviron/"><img src="https://raw.githubusercontent.com/globalgov/panarchic.ch/main/static/images/client/manyenviron.png" alt="manyenviron hex sticker" class="r2 c0"></a>
+		  <a href="https://globalgov.github.io/manytrade/"><img src="https://raw.githubusercontent.com/globalgov/panarchic.ch/main/static/images/client/manytrade.png" alt="manytrade hex sticker" class="r2 c1"></a>
+		  <a href="https://globalgov.github.io/manypkgs/"><img src="https://raw.githubusercontent.com/globalgov/panarchic.ch/main/static/images/client/manypkgs.png" alt="manypkgs hex sticker" class="r3 c0"></a>
+		  <a href="https://globalgov.github.io/manystates/"><img src="https://raw.githubusercontent.com/globalgov/panarchic.ch/main/static/images/client/manystates.png" alt="manystates hex sticker" class="r3 c1"></a>
+		  <a href="https://globalgov.github.io/manyhealth/"><img src="https://raw.githubusercontent.com/globalgov/panarchic.ch/main/static/images/client/manyhealth.png" alt="manyhealth hex sticker" class="r3 c2"></a>
+      <a href="https://snlab-ch.github.io/migraph/"><img src="https://raw.githubusercontent.com/globalgov/panarchic.ch/main/static/images/client/migraph.png" alt="migraph hex sticker" class="r4 c0"></a>
+      <a href="https://globalgov.github.io/messydates/"><img src="https://raw.githubusercontent.com/globalgov/panarchic.ch/main/static/images/client/messydates.png" alt="messydates hex sticker" class="r4 c1"></a>
+      </div>
 		</div>
 	</div>
+</div>
 </section>
 {{"<!-- /testimonial -->" | safeHTML}}
 {{ end }}
