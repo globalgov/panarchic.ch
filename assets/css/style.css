@@ -2313,8 +2313,8 @@ figcaption {
   position: relative;
   width: 500px;
   margin-top: -300px;
-  margin-left: 22%;
-  margin-right: 22%;
+  margin-left: 0 auto;
+  margin-right: 0 auto;
   height: 640px; }
   .hexBadges img {
     width: 140px;
