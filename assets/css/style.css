@@ -2362,7 +2362,7 @@ figcaption {
 @media screen and (max-width: 1400px) {
 .hexBadges {
   position: relative;
-  width: 400px;
+  width: 380px;
   margin-top: -100px;
   margin-left: auto;
   margin-right: auto;
