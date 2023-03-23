@@ -55,21 +55,21 @@ url = "team"
 weight = 2
 
 [[Languages.en.menu.main]]
-name = "Our Partners"
-pre = "#"
-url = "portfolio"
-weight = 3
-
-[[Languages.en.menu.main]]
 name = "Our Publications"
 pre = "#"
 url = "pricing"
-weight = 4
+weight = 3
 
 [[Languages.en.menu.main]]
 name = "Our Packages"
 pre = "#"
 url = "testimonial"
+weight = 4
+
+[[Languages.en.menu.main]]
+name = "Our Partners"
+pre = "#"
+url = "portfolio"
 weight = 5
 
 # [[Languages.en.menu.main]]
