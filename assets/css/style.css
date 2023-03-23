@@ -2334,14 +2334,14 @@ figcaption {
 @media screen and (min-width: 801px) {
 .hexBadges {
   position: relative;
-  width: 640px;
+  width: 550px;
   margin-top: -100px;
   margin-left: auto;
   margin-right: auto;
-  height: 640px; }
+  height: 550px; }
   .hexBadges img {
-    width: 140px;
-    height: 162px;
+    width: 114.8px;
+    height: 129.6px;
     position: absolute;
     -webkit-transition-property: opacity;
     -moz-transition-property: opacity;
@@ -2354,31 +2354,31 @@ figcaption {
     .hexBadges img.r0 {
       top: 0px; }
     .hexBadges img.r1 {
-      top: 120px; }
+      top: 96px; }
     .hexBadges img.r2 {
-      top: 255px; }
+      top: 288px; }
     .hexBadges img.r3 {
-      top: 390px; }
+      top: 384px; }
     .hexBadges img.r4 {
-      top: 525px; }
+      top: 480px; }
     .hexBadges img.r5 {
-      top: 660px; }
+      top: 576px; }
     .hexBadges img.r1.c0, .hexBadges img.r3.c0, .hexBadges img.r5.c0 {
       left: 100px; }
     .hexBadges img.r0.c0, .hexBadges img.r2.c0, .hexBadges img.r4.c0 {
-      left: 175px; }
+      left: 160px; }
     .hexBadges img.r1.c1, .hexBadges img.r3.c1, .hexBadges img.r5.c1 {
-      left: 250px; }
+      left: 220px; }
     .hexBadges img.r0.c1, .hexBadges img.r2.c1, .hexBadges img.r4.c1 {
-      left: 325px; }
+      left: 280px; }
     .hexBadges img.r1.c2, .hexBadges img.r3.c2, .hexBadges img.r5.c2 {
-      left: 400px; }
+      left: 340px; }
     .hexBadges img.r0.c2, .hexBadges img.r2.c2, .hexBadges img.r4.c2 {
-      left: 475px; }
+      left: 400px; }
     .hexBadges img.r1.c3, .hexBadges img.r3.c3, .hexBadges img.r5.c3 {
-      left: 550px; }
+      left: 460px; }
     .hexBadges img.r0.c3, .hexBadges img.r2.c3, .hexBadges img.r4.c3 {
-      left: 625px; }
+      left: 520px; }
 }
 
 
