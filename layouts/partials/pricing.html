@@ -21,10 +21,7 @@
       {{"<!-- single pricing table -->" | safeHTML}}
       <div class="col-lg-3 col-md-6 col-12 text-left">
         <div class="price-item">
-          <div class="member-photo">
-            {{"<!-- member photo -->" | safeHTML}}
-            <img class="img-fluid lozad" data-src="{{ .image_webp | absURL }}" onerror="this.onerror=null;this.src='{{ .image | absURL }}'" alt="{{ .name }}">
-          </div>
+
           {{"<!-- plan name & value -->" | safeHTML}}
           <div class="price-title">
             <h3>{{ .name }}</h3>
