@@ -4,13 +4,15 @@ pricing:
   title : Our Publications
   pricing_table :
     # pricing table loop
-    - name :  "What's Complex About Regime Complexity? It Depends."
+    - image : images/publication/test.jpg
+      name :  "What's Complex About Regime Complexity? It Depends."
       button:
         label : "Hollway, J. (2021). Published: Complexity, Governance, and Networks 6(1): 68-81."
         link : "https://doi.org/10.20377/cgn-100"
 
     # pricing table loop
-    - name : "'A Framework for Resilience of and in International Networks' in A Research Agenda for Social Networks and Social Resilience"
+    - image : images/publication/test2.jpg
+      name : "'A Framework for Resilience of and in International Networks' in A Research Agenda for Social Networks and Social Resilience"
       button:
         label : "Hollway, J. (2022). Edited by Emmanuel Lazega, Tom Snijders, and Rafael Wittek. Cheltenham: Edward Elgar, pp. 101-114."
         link : "https://doi.org/10.4337/9781803925783.00013"
