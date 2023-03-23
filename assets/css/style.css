@@ -803,6 +803,29 @@ a:hover {
   margin-bottom: 15px;
 }
 
+.publication-photo {
+  overflow: hidden;
+  position: relative;
+}
+
+@media (max-width: 768px) {
+  .publication-photo {
+    text-align: center;
+  }
+}
+
+
+.publication-photo img {
+  transition: all 0.4s ease 0s;
+}
+
+@media (max-width: 768px) {
+  .publication-photo img {
+    display: inline-block;
+  }
+}
+
+
 .price-title {
   background-color: #292F36;
   padding: 30px 0 20px;
