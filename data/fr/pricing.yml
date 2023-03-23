@@ -4,34 +4,43 @@ pricing:
   title : Our Publications
   pricing_table :
     # pricing table loop
-    - name : "Laurens, N., Hollway, J., and Morin, J-F. (2023). Checking for Updates: Ratification, Design, and Institutional Adaptation."
+    - image : images/publications/pub1.png
+      name : "What's Complex About Regime Complexity? It Depends."
       button:
-        label : "Published in: International Studies Quarterly."
-        link : "#"
+        label : "Hollway, J. (2021). Published: Complexity, Governance, and Networks 6(1): 68-81."
+        link : "https://doi.org/10.20377/cgn-100"
 
     # pricing table loop
-    - name : "Montfort, S., Fischer, M., Jager, N., and Hollway, J. (2023). Design paths of federal intergovernmental cooperation."
+    - image : images/publications/pub2.png
+      name : "'A Framework for Resilience of and in International Networks' in A Research Agenda for Social Networks and Social Resilience"
       button:
-        label : "Published in: Policy Studies Journal."
-        link : "#"
+        label : "Hollway, J. (2022). Edited by Emmanuel Lazega, Tom Snijders, and Rafael Wittek. Cheltenham: Edward Elgar, pp. 101-114."
+        link : "https://doi.org/10.4337/9781803925783.00013"
 
     # pricing table loop
-    - name : "Haunss, S., and Hollway, J. (2023). Multimodal mechanisms of political discourse dynamics and the case of Germany's nuclear energy phase-out."
+    - image : images/publications/pub3.png
+      name : "Viewing the Global Health System as a Complex Adaptive System: Implications for Research and Practice."
       button:
-        label : "Published in: Network Science."
-        link : "https://doi.org/10.1017/nws.2022.31"
-
-    # pricing table loop
-    - name : "Borghi, J., Ismail, S., Hollway, J., Kim, R. E., Sturmberg, J., Brown, G., Mechler, R., Volmink, H., Spicer, N., Chalabi, Z., Cassidy, R., Johnson, J., Foss, A., Koduah, A., Searle, C., Komendantova, N., Semwanga, A., and Moon, s. (2022). Viewing the global health system as a complex adaptive system: Implications for research and practice."
-      button:
-        label : "Published in: F1000"
+        label : "Borghi, J. et al. (2022). Published: F1000"
         link : "https://doi.org/10.12688/f1000research.126201.1"
 
     # pricing table loop
-    - name : "Hollway, J. (2022). 'A framework for resilience of and in international networks' in A Research Agenda for Social Networks and Social Resilience. Edited by Emmanuel Lazega, Tom Snijders, and Rafael Wittek. Cheltenham: Edward Elgar, pp. 101-114."
+    - image : images/publications/pub4.png
+      name : "Multimodal Mechanisms of Political Discourse Dynamics and the Case of Germany's Nuclear Energy Phase-out."
+      button:
+        label : "Haunss, S., and Hollway, J. (2023). Published: Network Science."
+        link : "https://doi.org/10.1017/nws.2022.31"
 
     # pricing table loop
-    - name :  "Hollway, J. (2021). What's complex about regime complexity? It depends."
+    - image : images/publications/pub5.png
+      name : "Design Paths of Federal Intergovernmental Cooperation."
       button:
-        label : "Published in: Complexity, Governance, and Networks 6(1): 68-81."
-        link : "https://doi.org/10.20377/cgn-100"
+        label : "Montfort, S., Fischer, M., Jager, N., and Hollway, J. (2023). Published: Policy Studies Journal."
+        link : "#"
+
+    # pricing table loop
+    - image : images/publications/pub6.png
+      name : "Checking for Updates: Ratification, Design, and Institutional Adaptation"
+      button:
+        label : "Laurens, N., Hollway, J., and Morin, J-F. (2023). Published: International Studies Quarterly."
+        link : "#"
