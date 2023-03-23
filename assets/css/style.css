@@ -2335,7 +2335,7 @@ figcaption {
 .hexBadges {
   position: relative;
   width: 550px;
-  margin-top: -100px;
+  margin-top: -150px;
   margin-left: auto;
   margin-right: auto;
   height: 550px; }
@@ -2356,11 +2356,11 @@ figcaption {
     .hexBadges img.r1 {
       top: 96px; }
     .hexBadges img.r2 {
-      top: 199px; } 7
+      top: 199px; } 
     .hexBadges img.r3 {
-      top: 302px; } 14
+      top: 302px; } 
     .hexBadges img.r4 {
-      top: 405px; } 21
+      top: 405px; } 
     .hexBadges img.r5 {
       top: 508px; }
     .hexBadges img.r1.c0, .hexBadges img.r3.c0, .hexBadges img.r5.c0 {
