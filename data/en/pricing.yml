@@ -4,7 +4,8 @@ pricing:
   title : Our Publications
   pricing_table :
     # pricing table loop
-    - name :  "What's Complex About Regime Complexity? It Depends."
+    - image : images/team/diego.jpg
+      name :  "What's Complex About Regime Complexity? It Depends."
       button:
         label : "Hollway, J. (2021). Published: Complexity, Governance, and Networks 6(1): 68-81."
         link : "https://doi.org/10.20377/cgn-100"
