@@ -917,7 +917,6 @@ a:hover {
 .portfolio-block img {
   width: auto;
   height: auto;
-  margin: 0 auto;
 }
 
 .portfolio-block:hover:before {
