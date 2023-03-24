@@ -21,7 +21,7 @@ portfolio:
     
     # portfolio item loop
     - name : Bernhard Bieri
-      image : images/portfolio/bernhard_bieri.jpg
+      image : images/portfolio/bernhard_bieri_center.png
       # image_webp : images/portfolio/portfolio-3.webp
       categories : ["Past Collaborators"]
       # content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -29,7 +29,7 @@ portfolio:
     
     # portfolio item loop
     - name : Esther Peev
-      image : images/portfolio/esther_peev.jpg
+      image : images/portfolio/esther_peev_center.png
       # image_webp : images/portfolio/portfolio-4.webp
       categories : ["Past Collaborators"]
       # content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
