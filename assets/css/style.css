@@ -906,10 +906,8 @@ a:hover {
   transition: all 0.3s ease-in-out;
   background: white;
   opacity: 0;
-  top: 20px;
-  right: 20px;
-  bottom: 20px;
-  left: 20px;
+  width: auto;
+  height: auto;
   position: absolute;
   content: '';
 }
