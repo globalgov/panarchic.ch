@@ -915,7 +915,7 @@ a:hover {
 }
 
 .portfolio-block img {
-  width: 100%;
+  width: auto;
   height: auto;
 }
 
