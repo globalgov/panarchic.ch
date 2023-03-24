@@ -912,8 +912,6 @@ a:hover {
   left: 20px;
   position: absolute;
   content: '';
-  width: auto;
-  height: auto;
 }
 
 .portfolio-block img {
