@@ -900,8 +900,6 @@ a:hover {
 
 .portfolio-block {
   position: relative;
-  width: auto;
-  height: auto;
 }
 
 .portfolio-block:before {
