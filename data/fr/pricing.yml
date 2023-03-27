@@ -36,7 +36,7 @@ pricing:
       name : "Design Paths of Federal Intergovernmental Cooperation."
       button:
         label : "Montfort, S., Fischer, M., Jager, N., and Hollway, J. (2023). Published: Policy Studies Journal."
-        link : "#"
+        link : "https://doi.org/10.1111/psj.12498"
 
     # pricing table loop
     - image : images/publications/pub6.png
