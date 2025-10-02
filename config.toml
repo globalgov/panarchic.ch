@@ -1,8 +1,16 @@
 ################################# Default configuration ###################
-baseURL = "https://panarchic.ch/"
-title = "PANARCHIC Project"
+baseurl                  = "https://panarchic.ch/" # Your domain name. Must end with "/"
+themesDir                = "themes"
+publishDir               = "docs"
+languageCode             = "en-us"
+defaultContentLanguage   = "en"
+isMultilingual           = false
+title                    = "PANARCHIC Project"
+theme                    = "sam_2"
 # theme = "meghna-hugo"
-themesDir = "themes"
+pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
+pygmentsCodefences       = true
+# googleAnalytics        = ""                               # Tracking code, eg. "UA-111111111-1"
 # post pagination
 paginate = "1"
 # post excerpt
@@ -10,19 +18,7 @@ summaryLength = "15"
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
-disableLanguages = ["fr"]
-=======
-baseurl                  = "https://panarchic.ch/" # Your domain name. Must end with "/"
-themesDir                = "themes"
-publishDir               = "docs"
-languageCode             = "en-us"
-defaultContentLanguage   = "en"
-isMultilingual           = false
-title                    = "The PANARCHIC Project"
-theme                    = "sam_2"
-pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
-pygmentsCodefences       = true
-# googleAnalytics        = ""                               # Tracking code, eg. "UA-111111111-1"
+# disableLanguages = ["fr"]
 
 ############################# Plugins ##########################
 # css plugins
