@@ -1,7 +1,7 @@
 ##################################### pricing ##############################
 pricing:
   enable : true
-  title : Nos Publications
+  title : Unsere Publikationen
   pricing_table :
     - image : images/publications/pub1.png
       name :  "What's Complex About Regime Complexity? It Depends."
@@ -50,3 +50,10 @@ pricing:
       button:
         label : "Sage Handbook of Social Network Analysis (2024)"
         link : "https://doi.org/10.4135/9781529682618.n25"
+
+
+    
+
+
+   
+    
