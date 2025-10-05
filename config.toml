@@ -225,8 +225,7 @@ map_marker = "images/marker.png"
 # [[params.social]]
 # icon = "ti-pinterest" # themify icon pack : https://themify.me/themify-icons
 # link = "#"
-
-=======
+# =======
     dateform             = "Mon 2 Jan, 2006"
     dateformfull         = "Mon 2 Jan 2006 15:04:05 EST"
     favicon              = "sam.ico"
