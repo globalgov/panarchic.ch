@@ -15,29 +15,23 @@ pricing:
         label : "A Research Agenda for Social Networks and Social Resilience (2022)"
         link : "https://doi.org/10.4337/9781803925783.00013"
 
-    - image : images/publications/pub3.png
-      name : "Viewing the Global Health System as a Complex Adaptive System: Implications for Research and Practice."
-      button:
-        label : "F1000 (2022)"
-        link : "https://doi.org/10.12688/f1000research.126201.1"
-    
     - image : images/publications/pub4.png
       name : "Multimodal Mechanisms of Political Discourse Dynamics and the Case of Germany's Nuclear Energy Phase-out."
       button:
         label : "Network Science (2023)"
         link : "https://doi.org/10.1017/nws.2022.31"
     
-    - image : images/publications/pub5.png
-      name : "Design Paths of Federal Intergovernmental Cooperation."
-      button:
-        label : "Policy Studies Journal (2023)"
-        link : "https://doi.org/10.1111/psj.12498"
-
     - image : images/publications/pub6.png
       name : "Checking for Updates: Ratification, Design, and Institutional Adaptation"
       button:
         label : "International Studies Quarterly (2023)"
         link : "https://doi.org/10.1093/isq/sqad049"
+
+    - image : images/publications/pub5.png
+      name : "Design Paths of Federal Intergovernmental Cooperation."
+      button:
+        label : "Policy Studies Journal (2023)"
+        link : "https://doi.org/10.1111/psj.12498"
 
     - image : images/publications/pub7.png
       name : "What We Know (and Could Know) About International Environmental Agreements"
@@ -45,6 +39,12 @@ pricing:
         label : "Global Environmental Politics (2020)"
         link : "https://doi.org/10.1162/glep_a_00544"
 
+    - image : images/publications/pub3.png
+      name : "Viewing the Global Health System as a Complex Adaptive System: Implications for Research and Practice."
+      button:
+        label : "F1000 (2022)"
+        link : "https://doi.org/10.12688/f1000research.126201.1"
+    
     - image : images/publications/pub8.png
       name : "International Trade Networks"
       button:
