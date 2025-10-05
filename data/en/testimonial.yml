@@ -3,58 +3,51 @@ testimonial:
   enable : true
   title : Our Packages
   testimonial_item :
-    # testimonial item loop
-    - name : "manypkgs: Support for Creating Ensembled Global Governance Data"
-      image : images/client/manypkgs.png
-      content :
-        - icon : ti-new-window # themify icon pack : https://themify.me/themify-icons
-          link : "https://globalgov.github.io/manypkgs/"
-
-    # testimonial item loop
     - name : "manydata: Portal for Global Governance Data"
       image : images/client/manydata.png
       content :
         - icon : ti-new-window # themify icon pack : https://themify.me/themify-icons
           link : "https://globalgov.github.io/manydata/"
       
-    # testimonial item loop
-    - name : "manyenviron: Environmental Agreements for the 'many' Universe"
-      image : images/client/manyenviron.png
+    - name : "messydates: A Flexible Class for Messy Dates"
+      image : images/client/messydates.png
       content :
         - icon : ti-new-window # themify icon pack : https://themify.me/themify-icons
-          link : "https://globalgov.github.io/manyenviron/"
+          link : "https://globalgov.github.io/messydates/"
 
-    # testimonial item loop
-    - name : "manytrade: Trade Agreements for the 'many' Universe"
-      image : images/client/manytrade.png
+    - name : "manypkgs: Support for Creating Ensembled Global Governance Data"
+      image : images/client/manypkgs.png
       content :
         - icon : ti-new-window # themify icon pack : https://themify.me/themify-icons
-          link : "https://globalgov.github.io/manytrade/"
+          link : "https://globalgov.github.io/manypkgs/"
 
-    # testimonial item loop
-    - name : "manyhealth: Health Agreements for the 'many' Universe"
-      image : images/client/manyhealth.png
-      content :
-        - icon : ti-new-window # themify icon pack : https://themify.me/themify-icons
-          link : "https://globalgov.github.io/manyhealth/"
-
-    # testimonial item loop
     - name : "manystates: States for the 'many' Universe"
       image : images/client/manystates.png
       content :
         - icon : ti-new-window # themify icon pack : https://themify.me/themify-icons
           link : "https://globalgov.github.io/manystates/"
 
-    # testimonial item loop
+    - name : "manytreaties: Treaties for the 'many' Universe"
+      image : images/client/manytreaties.png
+      content :
+        - icon : ti-new-window # themify icon pack : https://themify.me/themify-icons
+          link : "https://globalgov.github.io/manytreaties/"
+
+    - name : "manynet: Tools for Multimodal Network Analysis"
+      image : images/client/manynet.png
+      content :
+        - icon : ti-new-window # themify icon pack : https://themify.me/themify-icons
+          link : "https://stocnet.github.io/manynet/"
+
+    - name : "autograph: Tools for Multimodal Network Analysis"
+      image : images/client/autograph.png
+      content :
+        - icon : ti-new-window # themify icon pack : https://themify.me/themify-icons
+          link : "https://stocnet.github.io/autograph/"
+
     - name : "migraph: Tools for Multimodal Network Analysis"
       image : images/client/migraph.png
       content :
         - icon : ti-new-window # themify icon pack : https://themify.me/themify-icons
-          link : "https://snlab-ch.github.io/migraph/"
+          link : "https://stocnet.github.io/migraph/"
 
-    # testimonial item loop
-    - name : "messydates: A Flexible Class for Messy Dates"
-      image : images/client/messydates.png
-      content :
-        - icon : ti-new-window # themify icon pack : https://themify.me/themify-icons
-          link : "https://globalgov.github.io/messydates/"
