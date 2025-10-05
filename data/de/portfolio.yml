@@ -1,26 +1,26 @@
 #################################### portfolio ###############################
 portfolio:
   enable : true
-  title : Nos Partenaires
+  title : Unsere Partner
   portfolio_item :
     - name : Swiss National Fund
       image : images/portfolio/snflogo.png
       # image_webp : images/portfolio/portfolio-1.webp
-      categories : ["Partenaires institutionnels"]
+      categories : ["Institutionelle Partner"]
       # content : Swiss National Fund
       link : "http://p3.snf.ch/Project-188976#"
 
     - name : Graduate Institute Center for International Environmental Studies
       image : images/portfolio/Logo_CIES.png
       # image_webp : images/portfolio/portfolio-2.webp
-      categories : ["Partenaires académiques"]
+      categories : ["Akademische Partner"]
       # content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "https://www.graduateinstitute.ch/cies"
     
     - name : Graduate Institute Global Governance Centre
       image : images/portfolio/Logo_GGC.png
       # image_webp : images/portfolio/portfolio-2.webp
-      categories : ["Partenaires académiques"]
+      categories : ["Akademische Partner"]
       # content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "https://www.graduateinstitute.ch/ggc"
     
