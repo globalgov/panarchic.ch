@@ -231,7 +231,7 @@ weight = 1
 home = "Home"
 copyright = "Made with the help of Hugo and Meghna"
 
-################################ France Language ########################
+################################ French Language ########################
 [Languages.fr]
 languageName = "Fr"
 languageCode = "fr-fr"
@@ -239,3 +239,12 @@ contentDir = "content/french"
 weight = 2
 home = "Accueil"
 copyright = "Réalisé avec l'aide de Hugo et Meghna"
+
+################################ German Language ########################
+[Languages.de]
+languageName = "De"
+languageCode = "de-de"
+contentDir = "content/german"
+weight = 2
+home = "Startseite"
+copyright = "Erstellt mit Hilfe von Hugo und Meghna"
