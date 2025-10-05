@@ -28,7 +28,7 @@ team:
       image : images/team/henrique_sposito.jpg
       designation : Doctoral Research Assistant
       content : |
-        PhD, International Relations/Political Science.
+        PhD, International Relations/Political Science
       social :
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
           link : "https://linkedin.com/in/henrique-sposito-11b84282"
@@ -41,7 +41,7 @@ team:
       image : images/team/JaelYiTan.jpg
       designation : Doctoral Research Assistant
       content : |
-        PhD Student in International Relations/Political Science.
+        PhD Student, International Relations/Political Science
       social :
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
           link : "https://linkedin.com/in/jael-t-a28967126"
@@ -51,7 +51,7 @@ team:
     # team member loop
     - name : Bernhard Bieri
       # image_webp : images/team/team-3.webp
-      image : images/team/bernhard_bieri.jpg
+      image : images/team/bernhard_bieri_up.png
       designation : Research Assistant
       content :  Masters in International Economics
       social :
@@ -87,7 +87,7 @@ team:
     # team member loop
     - name : Esther Peev
       # image_webp : images/team/team-3.webp
-      image : images/team/esther_peev.jpg
+      image : images/team/esther_peev_up.jpg
       designation : Research Assistant
       content :  Masters in International Affairs
       social :
