@@ -1,16 +1,16 @@
 ############################# About ###################################
 about:
   enable : true
-  title : About Us
+  title : Piliers du projet
   about_item :
-  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : We're Creative
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  - icon : ti-time # themify icon pack : https://themify.me/themify-icons
+    title : Théorie
+    content : Le projet théorise et recherche des preuves de mécanismes de dépendance socio-spatiale et temporelle.
 
-  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : We're Professional
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  - icon : ti-link # themify icon pack : https://themify.me/themify-icons
+    title : Méthodes
+    content : Le projet développe et étend des méthodes et des logiciels d'analyse et de modélisation de réseau pour l'étude des dépendances.
 
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : We're Genius
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  - icon : ti-layers # themify icon pack : https://themify.me/themify-icons
+    title : Empirique
+    content : Le projet collecte des données et analyse les acteurs et les institutions qui régissent l’environnement, le commerce et la santé.

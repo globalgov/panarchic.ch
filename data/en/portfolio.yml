@@ -3,7 +3,6 @@ portfolio:
   enable : true
   title : Our Partners
   portfolio_item :
-    # portfolio item loop
     - name : Swiss National Fund
       image : images/portfolio/snflogo.png
       # image_webp : images/portfolio/portfolio-1.webp
@@ -11,7 +10,6 @@ portfolio:
       # content : Swiss National Fund
       link : "http://p3.snf.ch/Project-188976#"
 
-    # portfolio item loop
     - name : Graduate Institute Center for International Environmental Studies
       image : images/portfolio/Logo_CIES.png
       # image_webp : images/portfolio/portfolio-2.webp
@@ -19,7 +17,6 @@ portfolio:
       # content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "https://www.graduateinstitute.ch/cies"
     
-    # portfolio item loop
     - name : Graduate Institute Global Governance Centre
       image : images/portfolio/Logo_GGC.png
       # image_webp : images/portfolio/portfolio-2.webp

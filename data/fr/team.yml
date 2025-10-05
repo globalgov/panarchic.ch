@@ -8,10 +8,12 @@ team:
       # image_webp : images/team/team-1.webp
       image : images/team/james_hollway.jpg
       designation : Principal Investigator
-      content : A Short description
-      # social :
-      #   - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-      #     link : "#"
+      content : Associate Professor of International Relations and Political Science
+      social :
+        - icon : ti-new-window # themify icon pack : https://themify.me/themify-icons
+          link : "https://jameshollway.com"
+        - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+          link : "mailto:james.hollway@graduateinstitute.ch"
       #   - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
       #     link : "#"
       #   - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
@@ -23,46 +25,84 @@ team:
     - name : Henrique Sposito
       # image_webp : images/team/team-2.webp
       image : images/team/henrique_sposito.jpg
-      designation : Doctoral Research Assistant
-      content : PhD Student in Political Science and International Affairs.
-      # social :
-      #   - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+      designation : Assistant de recherche doctoral
+      content : |
+        PhD, International Relations/Political Science
+      social :
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://linkedin.com/in/henrique-sposito-11b84282"
+      #   - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
       #     link : "#"
-      #   - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-      #     link : "#"
-      #   - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-      #     link : "#"
+
+    # team member loop
+    - name : Jael Tan
+      # image_webp : images/team/team-2.webp
+      image : images/team/JaelYiTan.jpg
+      designation : Assistant de recherche doctoral
+      content : |
+        PhD Student, International Relations/Political Science
+      social :
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://linkedin.com/in/jael-t-a28967126"
       #   - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
       #     link : "#"
 
     # team member loop
     - name : Bernhard Bieri
       # image_webp : images/team/team-3.webp
-      image : images/team/bernhard_bierii.jpg
-      designation : Research Assistant
-      content : Masters student in International Economics.
-      # social :
-      #   - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+      image : images/team/bernhard_bieri_up.png
+      designation : Assistant de recherche
+      content :  Masters in International Economics
+      social :
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/bernhard-bieri/"
+      #   - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
       #     link : "#"
-      #   - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+
+    # team member loop
+    - name : Diego Del Moral Suarez
+      # image_webp : images/team/team-4.webp
+      image : images/team/diego.jpg
+      designation : Assistant de recherche
+      content : Masters in Development Studies
+      social :
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/delmoralsu/"
+      #   - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
       #     link : "#"
-      #   - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-      #     link : "#"
+
+    # team member loop
+    - name : Mylan Evrard
+      # image_webp : images/team/team-3.webp
+      image : images/team/mylan_evrard_up.jpg
+      designation : Assistant de recherche
+      content :  Masters in International and Development Studies
+      social :
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/mylan-evrard-aa530b2b9/"
       #   - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
       #     link : "#"
 
     # team member loop
     - name : Esther Peev
-      # image_webp : images/team/team-4.webp
-      image : images/team/team-4.jpg
-      designation : Research Assistant
-      content : Masters student in International Affairs.
-      # social :
-      #   - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+      # image_webp : images/team/team-3.webp
+      image : images/team/esther_peev_up.jpg
+      designation : Assistant de recherche
+      content :  Masters in International Affairs
+      social :
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/esther-peev-010427152/"
+      #   - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
       #     link : "#"
-      #   - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-      #     link : "#"
-      #   - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-      #     link : "#"
+
+    # team member loop
+    - name : Anders Viemose
+      # image_webp : images/team/team-3.webp
+      image : images/team/anders_viemose.jpg
+      designation : Assistant de recherche
+      content :  Masters in International Affairs
+      social :
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/anders-t-1a5927130"
       #   - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
       #     link : "#"
