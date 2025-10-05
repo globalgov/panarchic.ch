@@ -1,7 +1,7 @@
 ############################# About ###################################
 about:
   enable : true
-  title : Piliers du projet
+  title : Axes Projet
   about_item :
   - icon : ti-time # themify icon pack : https://themify.me/themify-icons
     title : Théorie

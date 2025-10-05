@@ -1,7 +1,7 @@
 ################################# Testimonial #########################
 testimonial:
   enable : true
-  title : Our Packages
+  title : Unsere Pakete
   testimonial_item :
     - name : "manydata: Portal for Global Governance Data"
       image : images/client/manydata.png

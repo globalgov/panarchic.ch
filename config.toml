@@ -51,7 +51,7 @@ link = "plugins/google-map/map.js"
 
 ################### English Navigation ########################
 [[Languages.en.menu.main]]
-name = "About"
+name = "Project Pillars"
 pre = "#"
 url = "about"
 weight = 1
@@ -113,7 +113,7 @@ weight = 5
 
 ################### French Navigation ########################
 [[Languages.fr.menu.main]]
-name = "A propos"
+name = "Axes Projet"
 pre = "#"
 url = "about"
 weight = 1

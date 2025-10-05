@@ -1,7 +1,7 @@
 ################################# Testimonial #########################
 testimonial:
   enable : true
-  title : Our Packages
+  title : Nos Packages
   testimonial_item :
     # testimonial item loop
     - name : "manypkgs: Support for Creating Ensembled Global Governance Data"
