@@ -1,0 +1,16 @@
+############################# About ###################################
+about:
+  enable : true
+  title : Projektsäulen
+  about_item :
+  - icon : ti-time # themify icon pack : https://themify.me/themify-icons
+    title : Theorie
+    content : Das Projekt theoretisiert und sucht nach Belegen für Mechanismen sozioräumlicher und zeitlicher Abhängigkeit.
+
+  - icon : ti-link # themify icon pack : https://themify.me/themify-icons
+    title : Methoden
+    content : Das Projekt entwickelt und erweitert netzwerkanalytische und modellierende Methoden sowie Software zur Untersuchung von Abhängigkeiten.
+
+  - icon : ti-layers # themify icon pack : https://themify.me/themify-icons
+    title : Empirie
+    content : Das Projekt sammelt Daten zu Akteuren und Institutionen, die Umwelt, Handel und Gesundheit beeinflussen, und analysiert diese.
