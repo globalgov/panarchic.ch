@@ -3,47 +3,53 @@ pricing:
   enable : true
   title : Our Publications
   pricing_table :
-    # pricing table loop
     - image : images/publications/pub1.png
       name :  "What's Complex About Regime Complexity? It Depends."
       button:
-        label : "Hollway, J. (2021). Complexity, Governance, and Networks 6(1): 68-81."
+        label : "Complexity, Governance, and Networks (2021)"
         link : "https://doi.org/10.20377/cgn-100"
 
-    # pricing table loop
     - image : images/publications/pub2.png
-      name : "'A Framework for Resilience of and in International Networks' in A Research Agenda for Social Networks and Social Resilience"
+      name : "A Framework for Resilience of and in International Networks"
       button:
-        label : "Hollway, J. (2022). Edited by Emmanuel Lazega, Tom Snijders, and Rafael Wittek. Cheltenham: Edward Elgar, pp. 101-114."
+        label : "A Research Agenda for Social Networks and Social Resilience (2022)"
         link : "https://doi.org/10.4337/9781803925783.00013"
 
-    # pricing table loop
     - image : images/publications/pub3.png
       name : "Viewing the Global Health System as a Complex Adaptive System: Implications for Research and Practice."
       button:
-        label : "Borghi, J. et al. (2022). F1000"
+        label : "F1000 (2022)"
         link : "https://doi.org/10.12688/f1000research.126201.1"
     
-    # pricing table loop
     - image : images/publications/pub4.png
       name : "Multimodal Mechanisms of Political Discourse Dynamics and the Case of Germany's Nuclear Energy Phase-out."
       button:
-        label : "Haunss, S., and Hollway, J. (2023). Network Science."
+        label : "Network Science (2023)"
         link : "https://doi.org/10.1017/nws.2022.31"
     
-    # pricing table loop
     - image : images/publications/pub5.png
       name : "Design Paths of Federal Intergovernmental Cooperation."
       button:
-        label : "Montfort, S., Fischer, M., Jager, N., and Hollway, J. (2023). Policy Studies Journal."
+        label : "Policy Studies Journal (2023)"
         link : "https://doi.org/10.1111/psj.12498"
 
-    # pricing table loop
     - image : images/publications/pub6.png
       name : "Checking for Updates: Ratification, Design, and Institutional Adaptation"
       button:
-        label : "Laurens, N., Hollway, J., and Morin, J-F. (2023). International Studies Quarterly."
-        link : "#"
+        label : "International Studies Quarterly (2023)"
+        link : "https://doi.org/10.1093/isq/sqad049"
+
+    - image : images/publications/pub7.png
+      name : "What We Know (and Could Know) About International Environmental Agreements"
+      button:
+        label : "Global Environmental Politics (2020)"
+        link : "https://doi.org/10.1162/glep_a_00544"
+
+    - image : images/publications/pub8.png
+      name : "International Trade Networks"
+      button:
+        label : "Sage Handbook of Social Network Analysis (2024)"
+        link : "https://doi.org/10.4135/9781529682618.n25"
 
 
     
