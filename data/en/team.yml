@@ -28,14 +28,8 @@ team:
       image : images/team/henrique_sposito.jpg
       designation : Doctoral Research Assistant
       content : |
-        PhD Student in International Relations/Political Science.
-        
-        Thesis title\: “Tell it how it is”: Authenticity, setting, and urgency in political discourses.
+        PhD, International Relations/Political Science.
       social :
-        - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-          link : "mailto:henrique.sposito@graduateinstitute.ch"
-      #   - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-      #     link : "#"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
           link : "https://linkedin.com/in/henrique-sposito-11b84282"
       #   - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
@@ -48,31 +42,21 @@ team:
       designation : Doctoral Research Assistant
       content : |
         PhD Student in International Relations/Political Science.
-        
-        Thesis title: Regional Organisations and the Strategies of Less Powerful States in Region Building.
       social :
-        - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-          link : "mailto:jael.tan@graduateinstitute.ch"
-      #   - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-      #     link : "#"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
           link : "https://linkedin.com/in/jael-t-a28967126"
       #   - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
       #     link : "#"
 
     # team member loop
-    - name : Anders Viemose
+    - name : Bernhard Bieri
       # image_webp : images/team/team-3.webp
-      image : images/team/anders_viemose.jpg
+      image : images/team/bernhard_bieri.jpg
       designation : Research Assistant
-      content :  Masters Student in International Affairs.
+      content :  Masters in International Economics
       social :
-        - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-          link : "mailto:anders.viemose@graduateinstitute.ch"
-      #   - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-      #     link : "#"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "https://www.linkedin.com/in/anders-t-1a5927130"
+          link : "https://www.linkedin.com/in/bernhard-bieri/"
       #   - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
       #     link : "#"
 
@@ -81,13 +65,45 @@ team:
       # image_webp : images/team/team-4.webp
       image : images/team/diego.jpg
       designation : Research Assistant
-      content : Masters Student in Development Studies.
+      content : Masters in Development Studies
       social :
-        - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-          link : "mailto:diego.del@graduateinstitute.ch"
-      #   - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-      #     link : "#"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
           link : "https://www.linkedin.com/in/delmoralsu/"
+      #   - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+      #     link : "#"
+
+    # team member loop
+    - name : Mylan Evrard
+      # image_webp : images/team/team-3.webp
+      image : images/team/mylan_evrard.jpg
+      designation : Research Assistant
+      content :  Masters in International and Development Studies
+      social :
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/mylan-evrard-aa530b2b9/"
+      #   - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+      #     link : "#"
+
+    # team member loop
+    - name : Esther Peev
+      # image_webp : images/team/team-3.webp
+      image : images/team/esther_peev.jpg
+      designation : Research Assistant
+      content :  Masters in International Affairs
+      social :
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/esther-peev-010427152/"
+      #   - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+      #     link : "#"
+
+    # team member loop
+    - name : Anders Viemose
+      # image_webp : images/team/team-3.webp
+      image : images/team/anders_viemose.jpg
+      designation : Research Assistant
+      content :  Masters in International Affairs
+      social :
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/anders-t-1a5927130"
       #   - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
       #     link : "#"
