@@ -1,17 +1,16 @@
 ############################# About ###################################
 about:
   enable : true
-  title : The Project
-  content: The PANARCHIC project is built upon three pillars...
+  title : Project Pillars
   about_item :
-  - icon : ti-link # themify icon pack : https://themify.me/themify-icons
-    title : Networks
-    content : We study the effects of network and power on how quickly states join, reform, or create international institutions by examining the historical dynamics of institutional networks.
-
   - icon : ti-time # themify icon pack : https://themify.me/themify-icons
-    title : Dynamic
-    content : We use a dynamic actor-oriented network event model to estimate the effects networks and power have on the timing and choices of institutional change.
+    title : Theory
+    content : The project theorises and searches for evidence for mechanisms of socio-spatial and temporal dependency.
+
+  - icon : ti-link # themify icon pack : https://themify.me/themify-icons
+    title : Methods
+    content : The project develops and extends network analytic and modelling methods and software for studying dependencies.
 
   - icon : ti-layers # themify icon pack : https://themify.me/themify-icons
-    title : Multimodal
-    content : We analyse a wide range of institutional complexes ranging from trade to environmental complexes.
+    title : Empirics
+    content : The project collects data on and analyses the actors and institutions governing the environment, trade, and health.
