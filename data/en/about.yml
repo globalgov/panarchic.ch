@@ -2,6 +2,7 @@
 about:
   enable : true
   title : The Project
+  content: The PANARCHIC project is built upon three pillars...
   about_item :
   - icon : ti-link # themify icon pack : https://themify.me/themify-icons
     title : Networks
