@@ -20,6 +20,14 @@ portfolio:
       link : "https://www.graduateinstitute.ch/cies"
     
     # portfolio item loop
+    - name : Graduate Institue Global Governance Centre
+      image : images/portfolio/Logo_GGC.png
+      # image_webp : images/portfolio/portfolio-2.webp
+      categories : ["Academic Partners"]
+      # content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "https://www.graduateinstitute.ch/ggc"
+    
+    # portfolio item loop
     - name : Bernhard Bieri
       image : images/portfolio/bernhard_bieri_center.png
       # image_webp : images/portfolio/portfolio-3.webp
