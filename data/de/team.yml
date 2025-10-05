@@ -1,13 +1,14 @@
 ############################### team ############################
+# Note that the image path starts from the static folder and not the root folder
 team:
   enable : true
-  title : Notre Équipe
+  title : Unser Team
   team_member :
     # team member loop
     - name : James Hollway
       # image_webp : images/team/team-1.webp
       image : images/team/james_hollway.jpg
-      designation : Chercheur Principal
+      designation : Projektleitung
       content : Associate Professor of International Relations and Political Science
       social :
         - icon : ti-new-window # themify icon pack : https://themify.me/themify-icons
@@ -25,7 +26,7 @@ team:
     - name : Henrique Sposito
       # image_webp : images/team/team-2.webp
       image : images/team/henrique_sposito.jpg
-      designation : Assistant de recherche en doctorat
+      designation : Wissenschaftlicher Mitarbeiter mit Doktorandenstatus
       content : |
         PhD, International Relations/Political Science
       social :
@@ -38,7 +39,7 @@ team:
     - name : Jael Tan
       # image_webp : images/team/team-2.webp
       image : images/team/JaelYiTan.jpg
-      designation : Assistante de recherche en doctorat
+      designation : Wissenschaftliche Mitarbeiterin mit Doktorandenstatus
       content : |
         PhD Student, International Relations/Political Science
       social :
@@ -51,7 +52,7 @@ team:
     - name : Bernhard Bieri
       # image_webp : images/team/team-3.webp
       image : images/team/bernhard_bieri_up.png
-      designation : Assistant de recherche en master
+      designation : Wissenschaftlicher Mitarbeiter im Masterstudium
       content :  Masters in International Economics
       social :
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
@@ -63,7 +64,7 @@ team:
     - name : Diego Del Moral Suarez
       # image_webp : images/team/team-4.webp
       image : images/team/diego.jpg
-      designation : Assistant de recherche en master
+      designation : Wissenschaftlicher Mitarbeiter im Masterstudium
       content : Masters in Development Studies
       social :
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
@@ -75,7 +76,7 @@ team:
     - name : Mylan Evrard
       # image_webp : images/team/team-3.webp
       image : images/team/mylan_evrard_up.jpg
-      designation : Assistant de recherche en master
+      designation : Wissenschaftlicher Mitarbeiter im Masterstudium
       content :  Masters in International and Development Studies
       social :
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
@@ -87,7 +88,7 @@ team:
     - name : Esther Peev
       # image_webp : images/team/team-3.webp
       image : images/team/esther_peev_up.jpg
-      designation : Assistante de recherche en master
+      designation : Wissenschaftliche Mitarbeiterin im Masterstudium
       content :  Masters in International Affairs
       social :
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
@@ -99,7 +100,7 @@ team:
     - name : Anders Viemose
       # image_webp : images/team/team-3.webp
       image : images/team/anders_viemose.jpg
-      designation : Assistant de recherche en master
+      designation : Wissenschaftlicher Mitarbeiter im Masterstudium
       content :  Masters in International Affairs
       social :
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
