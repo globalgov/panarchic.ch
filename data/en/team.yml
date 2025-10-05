@@ -75,7 +75,7 @@ team:
     # team member loop
     - name : Mylan Evrard
       # image_webp : images/team/team-3.webp
-      image : images/team/mylan_evrard.jpg
+      image : images/team/mylan_evrard_up.jpg
       designation : Research Assistant
       content :  Masters in International and Development Studies
       social :
