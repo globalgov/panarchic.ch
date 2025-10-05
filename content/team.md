@@ -7,6 +7,9 @@ at the Graduate Institute of International and Development Studies,
 and includes:
 
 - Henrique Sposito, doctoral candidate in International Relations/Political Science
+- Jael Tan, doctoral candidate in International Relations/Political Science
 - Bernhard Bieri, masters student in International Economics
+- Mylan Evrard, masters student in International and Development Studies
+- Diego del Moral Suarez, masters student in Development Studies
 - Esther Peev, masters student in International Affairs
-
+- Anders Viemose, masters student in International Affairs
