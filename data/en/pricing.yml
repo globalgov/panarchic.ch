@@ -7,7 +7,7 @@ pricing:
     - image : images/publications/pub1.png
       name :  "What's Complex About Regime Complexity? It Depends."
       button:
-        label : "Hollway, J. (2021). Published: Complexity, Governance, and Networks 6(1): 68-81."
+        label : "Hollway, J. (2021). Complexity, Governance, and Networks 6(1): 68-81."
         link : "https://doi.org/10.20377/cgn-100"
 
     # pricing table loop
@@ -21,28 +21,28 @@ pricing:
     - image : images/publications/pub3.png
       name : "Viewing the Global Health System as a Complex Adaptive System: Implications for Research and Practice."
       button:
-        label : "Borghi, J. et al. (2022). Published: F1000"
+        label : "Borghi, J. et al. (2022). F1000"
         link : "https://doi.org/10.12688/f1000research.126201.1"
     
     # pricing table loop
     - image : images/publications/pub4.png
       name : "Multimodal Mechanisms of Political Discourse Dynamics and the Case of Germany's Nuclear Energy Phase-out."
       button:
-        label : "Haunss, S., and Hollway, J. (2023). Published: Network Science."
+        label : "Haunss, S., and Hollway, J. (2023). Network Science."
         link : "https://doi.org/10.1017/nws.2022.31"
     
     # pricing table loop
     - image : images/publications/pub5.png
       name : "Design Paths of Federal Intergovernmental Cooperation."
       button:
-        label : "Montfort, S., Fischer, M., Jager, N., and Hollway, J. (2023). Published: Policy Studies Journal."
+        label : "Montfort, S., Fischer, M., Jager, N., and Hollway, J. (2023). Policy Studies Journal."
         link : "https://doi.org/10.1111/psj.12498"
 
     # pricing table loop
     - image : images/publications/pub6.png
       name : "Checking for Updates: Ratification, Design, and Institutional Adaptation"
       button:
-        label : "Laurens, N., Hollway, J., and Morin, J-F. (2023). Published: International Studies Quarterly."
+        label : "Laurens, N., Hollway, J., and Morin, J-F. (2023). International Studies Quarterly."
         link : "#"
 
 
