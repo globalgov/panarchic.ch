@@ -80,37 +80,6 @@ pre = "#"
 url = "portfolio"
 weight = 5
 
-# [[Languages.en.menu.main]]
-# name = "team"
-# pre = "#"
-# url = "team"
-# weight = 4
-#
-# [[Languages.en.menu.main]]
-# name = "pricing"
-# pre = "#"
-# url = "pricing"
-# weight = 5
-#
-# [[Languages.en.menu.main]]
-# name = "blog"
-# pre = "#"
-# url = "blog"
-# weight = 6
-#
-# [[Languages.en.menu.main]]
-# name = "contact"
-# pre = "#"
-# url = "contact"
-# weight = 7
-#
-# [[Languages.en.menu.main]]
-# name = "themefisher"
-# pre = ""
-# url = "https://themefisher.com/"
-# weight = 8
-
-
 ################### French Navigation ########################
 [[Languages.fr.menu.main]]
 name = "Axes Projet"
@@ -121,7 +90,7 @@ weight = 1
 [[Languages.fr.menu.main]]
 name = "Notre Equipe"
 pre = "#"
-url = "services"
+url = "team"
 weight = 2
 
 [[Languages.fr.menu.main]]
@@ -142,35 +111,36 @@ pre = "#"
 url = "testimonial"
 weight = 5
 
-# [[Languages.fr.menu.main]]
-# name = "équipe"
-# pre = "#"
-# url = "team"
-# weight = 4
-#
-# [[Languages.fr.menu.main]]
-# name = "tarification"
-# pre = "#"
-# url = "pricing"
-# weight = 5
-#
-# [[Languages.fr.menu.main]]
-# name = "blog"
-# pre = "#"
-# url = "blog"
-# weight = 6
-#
-# [[Languages.fr.menu.main]]
-# name = "contact"
-# pre = "#"
-# url = "contact"
-# weight = 7
-#
-# [[Languages.fr.menu.main]]
-# name = "themefisher"
-# pre = ""
-# url = "https://themefisher.com/"
-# weight = 8
+################### German Navigation ########################
+[[Languages.de.menu.main]]
+name = "Projektsäulen"
+pre = "#"
+url = "about"
+weight = 1
+
+[[Languages.de.menu.main]]
+name = "Unser Team"
+pre = "#"
+url = "team"
+weight = 2
+
+[[Languages.de.menu.main]]
+name = "Unsere Partner"
+pre = "#"
+url = "portfolio"
+weight = 3
+
+[[Languages.de.menu.main]]
+name = "Unsere Publikationen"
+pre = "#"
+url = "pricing"
+weight = 4
+
+[[Languages.de.menu.main]]
+name = "Unsere Pakete"
+pre = "#"
+url = "testimonial"
+weight = 5
 
 ############################# Default Parameters ##########################
 [params]
